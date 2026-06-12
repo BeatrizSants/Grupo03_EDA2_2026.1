@@ -1,7 +1,7 @@
 {
   "1": {
     "nome": "user01",
-    "restricao": "x",
+    "descrição": "x",
     "interacoes": {
       "101": 1
     }
