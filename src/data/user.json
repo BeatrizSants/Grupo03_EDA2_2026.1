@@ -1,9 +1,104 @@
 {
   "1": {
-    "nome": "user01",
-    "restricao": "x",
+    "nome": "Ana Clara",
+    "descricao": "Vegetariana há 2 anos, gosta de receitas saudáveis e procura substituições de carne com proteína vegetal, como tofu e grão-de-bico.",
     "interacoes": {
       "101": 1
     }
+  },
+  "2": {
+    "nome": "Bruno Henrique",
+    "descricao": "Vegano focado em alimentação fitness, busca alternativas à carne ricas em proteína, como proteína de soja e lentilha.",
+    "interacoes": {}
+  },
+  "3": {
+    "nome": "Camila Souza",
+    "descricao": "Vegetariana que prefere refeições leves e saudáveis, interessada em hambúrgueres vegetais e legumes grelhados.",
+    "interacoes": {}
+  },
+  "4": {
+    "nome": "Daniel Oliveira",
+    "descricao": "Vegano iniciante procurando substituir carnes vermelhas por opções naturais e nutritivas.",
+    "interacoes": {}
+  },
+  "5": {
+    "nome": "Eduarda Lima",
+    "descricao": "Vegetariana que gosta de cozinhar pratos saudáveis e experimentar substituições como cogumelos e jaca desfiada.",
+    "interacoes": {}
+  },
+  "6": {
+    "nome": "Felipe Martins",
+    "descricao": "Vegano preocupado com saúde cardiovascular, evita ultraprocessados e prefere alimentos integrais.",
+    "interacoes": {}
+  },
+  "7": {
+    "nome": "Gabriela Costa",
+    "descricao": "Vegetariana interessada em alimentação equilibrada, procura receitas sem carne e ricas em vegetais.",
+    "interacoes": {}
+  },
+  "8": {
+    "nome": "Henrique Alves",
+    "descricao": "Vegano esportista, gosta de refeições proteicas usando tofu, feijão, quinoa e proteína vegetal.",
+    "interacoes": {}
+  },
+  "9": {
+    "nome": "Isabela Rocha",
+    "descricao": "Vegetariana que busca opções saudáveis para substituir frango e carne moída no dia a dia.",
+    "interacoes": {}
+  },
+  "10": {
+    "nome": "João Pedro",
+    "descricao": "Vegano que prefere refeições simples e nutritivas, com foco em legumes, castanhas e proteínas vegetais.",
+    "interacoes": {}
+  },
+  "11": {
+    "nome": "Karina Mendes",
+    "descricao": "Vegetariana focada em alimentação saudável, gosta de receitas com soja, lentilha e vegetais frescos.",
+    "interacoes": {}
+  },
+  "12": {
+    "nome": "Lucas Ferreira",
+    "descricao": "Vegano em transição alimentar, procura pratos que imitem carne, como hambúrguer vegetal e almôndegas de lentilha.",
+    "interacoes": {}
+  },
+  "13": {
+    "nome": "Mariana Ribeiro",
+    "descricao": "Vegetariana que prioriza alimentos naturais e substituições saudáveis para refeições tradicionais.",
+    "interacoes": {}
+  },
+  "14": {
+    "nome": "Nicolas Gomes",
+    "descricao": "Vegano interessado em culinária saudável, gosta de experimentar receitas com tofu e proteína texturizada de soja.",
+    "interacoes": {}
+  },
+  "15": {
+    "nome": "Olivia Fernandes",
+    "descricao": "Vegetariana que prefere pratos leves, nutritivos e ricos em vegetais e grãos.",
+    "interacoes": {}
+  },
+  "16": {
+    "nome": "Pedro Henrique",
+    "descricao": "Vegano focado em ganho de massa muscular, busca refeições ricas em proteína vegetal e baixa gordura.",
+    "interacoes": {}
+  },
+  "17": {
+    "nome": "Quitéria Silva",
+    "descricao": "Vegetariana interessada em alimentação sustentável e substituições de carne usando cogumelos e leguminosas.",
+    "interacoes": {}
+  },
+  "18": {
+    "nome": "Rafael Barbosa",
+    "descricao": "Vegano que busca refeições saudáveis e práticas para o dia a dia, evitando produtos industrializados.",
+    "interacoes": {}
+  },
+  "19": {
+    "nome": "Sofia Almeida",
+    "descricao": "Vegetariana que gosta de testar receitas saudáveis e opções criativas para substituir carnes.",
+    "interacoes": {}
+  },
+  "20": {
+    "nome": "Thiago Costa",
+    "descricao": "Vegano focado em alimentação balanceada, procura refeições nutritivas com vegetais e proteínas vegetais.",
+    "interacoes": {}
   }
 }
