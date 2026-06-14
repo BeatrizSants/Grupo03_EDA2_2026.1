@@ -3,5 +3,17 @@
     "titulo": "receita01",
     "ingredientes": "x",
     "modo_preparo": "y"
+  },
+  "400": {
+    "titulo": "Bolo de Cenoura sem Ovo",
+    "ingredientes": [
+      "2 cenouras médias",
+      "1 xícara de óleo de girassol",
+      "1 xícara de açúcar",
+      "2 xícaras de farinha de trigo",
+      "1 colher de sopa de fermento em pó",
+      "3 colheres de sopa de aquafaba (água do grão-de-bico)"
+    ],
+    "modo_preparo": "Bata no liquidificador a cenoura, o óleo e a aquafaba até obter uma mistura homogênea. Transfira para uma tigela, adicione o açúcar, a farinha e o fermento, misturando delicadamente. Despeje em forma untada e enfarinhada. Leve ao forno a 180°C por 35 minutos ou até o palito sair limpo."
   }
 }

@@ -5,5 +5,16 @@
     "interacoes": {
       "101": 1
     }
+  },
+  "400": {
+    "nome": "Marina Silva",
+    "descrição": "Desenvolvi alergia a ovo na vida adulta e sofro muito porque amo doces. Busco receitas de bolos, tortas e sobremesas sem ovo que não percam a textura e o sabor original.",
+    "interacoes": {
+      "400": {
+        "peso": 5,
+        "curtiu": true,
+        "comentario": "Perfeito! Usei aquafaba e ficou muito fofinho, não dá diferença nenhuma."
+      }
+    }
   }
 }
