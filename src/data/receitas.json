@@ -399,6 +399,255 @@
     "ingredientes": "2 bananas da terra picadas; 1 xícara de farinha de mandioca; cebola; azeite",
     "modo_preparo": "Doure a cebola no azeite, adicione a banana e depois a farinha."
   },
+  "400": {
+    "titulo": "Bolo de Banana sem Ovos",
+    "ingredientes": "3 bananas maduras amassadas; 2 xícaras de farinha de trigo; 1 xícara de açúcar; 1/2 xícara de óleo; 1 colher de sopa de fermento em pó; 1 colher de chá de canela; 1 pitada de sal.",
+    "modo_preparo": "Misture as bananas amassadas com o óleo e o açúcar. Adicione a farinha, o sal e a canela, mexendo bem. Por último, acrescente o fermento e misture delicadamente. Despeje em forma untada e enfarinhada e asse em forno preaquecido a 180 °C por cerca de 40 minutos."
+  },
+  "401": {
+    "titulo": "Panqueca Vegana de Aveia",
+    "ingredientes": "1 xícara de farinha de aveia; 1 xícara de leite vegetal (coco ou aveia); 1 banana amassada; 1 colher de chá de canela; 1 pitada de sal; óleo para untar.",
+    "modo_preparo": "Bata todos os ingredientes no liquidificador até obter uma massa lisa. Aqueça uma frigideira antiaderente untada e despeje pequenas porções. Cozinhe por 2 minutos de cada lado até dourar. Sirva com frutas ou mel."
+  },
+  "402": {
+    "titulo": "Pão Caseiro sem Ovos",
+    "ingredientes": "3 xícaras de farinha de trigo; 1 sachê de fermento biológico seco; 1 colher de chá de sal; 1 colher de sopa de açúcar; 1 xícara de água morna; 3 colheres de sopa de azeite.",
+    "modo_preparo": "Dissolva o fermento e o açúcar na água morna e deixe descansar por 5 minutos. Misture a farinha e o sal, adicione a mistura de fermento e o azeite. Sove por 10 minutos até a massa ficar lisa. Deixe crescer por 1 hora, modele e asse a 200 °C por 30 minutos."
+  },
+  "403": {
+    "titulo": "Brigadeiro Vegano de Cacau",
+    "ingredientes": "1 lata de leite condensado de coco (395 g); 3 colheres de sopa de cacau em pó; 1 colher de sopa de óleo de coco; granulado vegano para enrolar.",
+    "modo_preparo": "Misture o leite condensado de coco, o cacau em pó e o óleo de coco em uma panela. Cozinhe em fogo baixo, mexendo sempre, até a mistura desgrudar do fundo (cerca de 10 a 12 minutos). Deixe esfriar, modele as bolinhas e passe no granulado."
+  },
+  "404": {
+    "titulo": "Mousse de Abacate e Cacau",
+    "ingredientes": "2 abacates maduros; 4 colheres de sopa de cacau em pó; 4 colheres de sopa de mel ou xarope de agave; 1/2 colher de chá de baunilha; 2 colheres de sopa de leite vegetal; 1 pitada de sal.",
+    "modo_preparo": "Bata todos os ingredientes no processador ou com um garfo até obter um creme bem liso e homogêneo. Transfira para taças e leve à geladeira por pelo menos 30 minutos antes de servir."
+  },
+  "405": {
+    "titulo": "Cookies de Banana e Aveia",
+    "ingredientes": "2 bananas maduras; 1 xícara de aveia em flocos; 2 colheres de sopa de cacau em pó; 1/2 xícara de gotas de chocolate amargo (sem leite); 1 colher de chá de baunilha.",
+    "modo_preparo": "Amasse bem as bananas e misture com todos os ingredientes. Modele pequenas bolinhas, disponha em assadeira com papel manteiga e pressione levemente. Asse a 180 °C por 15 minutos até firmar."
+  },
+  "406": {
+    "titulo": "Bolo de Cenoura Sem Ovos",
+    "ingredientes": "2 cenouras médias raladas; 1 xícara de açúcar; 1/2 xícara de óleo; 2 xícaras de farinha de trigo; 1 colher de sopa de fermento em pó; 1 colher de sopa de vinagre de maçã; 1 pitada de sal.",
+    "modo_preparo": "No liquidificador, bata as cenouras, o óleo e o açúcar. Transfira para uma tigela e adicione a farinha e o sal. Misture o vinagre (para substituir o ovo na aeração) e por último o fermento. Asse em forno a 180 °C por 35 a 40 minutos."
+  },
+  "407": {
+    "titulo": "Crepe Sem Ovos",
+    "ingredientes": "1 xícara de farinha de trigo; 1 e 1/2 xícara de leite vegetal; 1 colher de sopa de azeite; 1 pitada de sal; 1 colher de chá de açúcar (opcional).",
+    "modo_preparo": "Misture todos os ingredientes com um fouet até obter uma massa líquida e sem grumos. Deixe descansar por 10 minutos. Aqueça uma frigideira antiaderente levemente untada e despeje uma concha de massa, girando para espalhar finamente. Cozinhe por 1 a 2 minutos de cada lado."
+  },
+  "408": {
+    "titulo": "Bolinho de Chuva de Batata Doce",
+    "ingredientes": "2 xícaras de batata-doce cozida e amassada; 1 xícara de farinha de trigo; 1 colher de sopa de açúcar; 1 colher de chá de canela; 1 colher de chá de fermento em pó; 1 pitada de sal; óleo para fritar.",
+    "modo_preparo": "Misture a batata-doce com os demais ingredientes até formar uma massa firme. Molde bolinhas com uma colher e frite em óleo quente até dourar. Escorra em papel absorvente e polvilhe com açúcar e canela."
+  },
+  "409": {
+    "titulo": "Pudim de Leite de Coco Sem Ovos",
+    "ingredientes": "400 ml de leite de coco; 1 xícara de açúcar (para a calda); 3 colheres de sopa de amido de milho; 1/2 xícara de açúcar (para o pudim); 1 colher de chá de baunilha.",
+    "modo_preparo": "Prepare a calda dourada com 1 xícara de açúcar na panela e despeje na forma. Para o pudim, dissolva o amido de milho no leite de coco, adicione o açúcar e a baunilha e leve ao fogo mexendo até engrossar. Despeje sobre a calda e leve à geladeira por 4 horas."
+  },
+  "410": {
+    "titulo": "Torta de Frutas Sem Ovos",
+    "ingredientes": "Massa: 2 xícaras de farinha de trigo; 1/2 xícara de óleo; 1/4 xícara de água gelada; 1 pitada de sal; Creme: 2 xícaras de leite vegetal; 3 colheres de sopa de amido de milho; 3 colheres de sopa de açúcar; baunilha; Cobertura: frutas frescas a gosto.",
+    "modo_preparo": "Misture a farinha, o sal e o óleo até formar uma farofa. Adicione a água gelada e forme uma massa. Forre uma forma e asse a 180 °C por 20 minutos. Prepare o creme aquecendo o leite vegetal com o amido e o açúcar, mexendo até engrossar. Recheie a massa assada, decore com frutas e sirva gelado."
+  },
+  "411": {
+    "titulo": "Waffles Sem Ovos",
+    "ingredientes": "2 xícaras de farinha de trigo; 1 e 1/2 xícara de leite de aveia; 3 colheres de sopa de óleo; 2 colheres de sopa de açúcar; 1 colher de chá de fermento em pó; 1/2 colher de chá de baunilha; 1 pitada de sal.",
+    "modo_preparo": "Misture os ingredientes secos separadamente dos líquidos e depois combine-os sem bater demais. Aqueça a máquina de waffle, unte levemente e despeje a massa. Cozinhe por 3 a 4 minutos até dourar e ficar crocante. Sirva com mel, frutas ou pasta de amendoim."
+  },
+  "412": {
+    "titulo": "Bolo de Maçã e Canela sem Ovos",
+    "ingredientes": "2 maçãs picadas; 2 xícaras de farinha de trigo; 1 xícara de açúcar; 1/2 xícara de óleo; 1/2 xícara de suco de laranja; 1 colher de sopa de fermento; 1 colher de chá de canela; 1 pitada de sal.",
+    "modo_preparo": "Misture o açúcar, o óleo e o suco de laranja. Adicione a farinha, a canela e o sal. Incorpore as maçãs picadas e por fim o fermento. Asse em forma untada a 180 °C por 40 minutos. Deixe esfriar antes de cortar."
+  },
+  "413": {
+    "titulo": "Nhoque de Batata sem Ovos",
+    "ingredientes": "1 kg de batata cozida e espremida; 2 xícaras de farinha de trigo; 1 colher de sopa de azeite; 1 colher de chá de sal.",
+    "modo_preparo": "Misture a batata espremida ainda morna com o azeite e o sal. Adicione a farinha aos poucos até formar uma massa que não grude nas mãos. Enrole em rolinhos e corte em pedaços. Cozinhe em água fervente com sal até subirem à superfície. Sirva com molho a gosto."
+  },
+  "414": {
+    "titulo": "Cuscuz Marroquino com Legumes",
+    "ingredientes": "2 xícaras de cuscuz marroquino; 2 xícaras de caldo de legumes quente; 1 abobrinha picada; 1 cenoura picada; 1 cebola; 2 colheres de sopa de azeite; suco de 1 limão; salsinha; sal e pimenta.",
+    "modo_preparo": "Hidrate o cuscuz com o caldo quente, tampa por 5 minutos e solte com um garfo. Refogue a cebola, a abobrinha e a cenoura no azeite até amaciar. Misture ao cuscuz, tempere com limão, sal, pimenta e salsinha. Sirva frio ou quente."
+  },
+  "415": {
+    "titulo": "Arroz de Forno Sem Ovos",
+    "ingredientes": "3 xícaras de arroz cozido; 200 g de frango desfiado ou proteína de soja; 1 cebola; 2 tomates picados; 1 xícara de milho; 1 xícara de ervilha; 1 xícara de leite vegetal; 3 colheres de sopa de amido de milho; sal; orégano.",
+    "modo_preparo": "Refogue a cebola e o frango. Adicione os tomates, o milho e a ervilha. Prepare um creme dissolvendo o amido no leite vegetal e aquecendo até engrossar. Em um refratário, monte camadas de arroz, recheio e creme. Finalize com orégano e leve ao forno a 200 °C por 20 minutos."
+  },
+  "416": {
+    "titulo": "Sopa Cremosa de Mandioquinha",
+    "ingredientes": "500 g de mandioquinha cozida; 1 cebola; 2 dentes de alho; 1 litro de caldo de legumes; 200 ml de leite de coco; sal; pimenta; cebolinha.",
+    "modo_preparo": "Refogue a cebola e o alho em azeite. Adicione a mandioquinha e o caldo de legumes. Cozinhe por 10 minutos e bata tudo no liquidificador com o leite de coco até obter um creme liso. Volte ao fogo, ajuste os temperos e finalize com cebolinha."
+  },
+  "417": {
+    "titulo": "Salada de Grão-de-bico Assado",
+    "ingredientes": "2 latas de grão-de-bico; 2 colheres de azeite; 1 colher de páprica defumada; 1 colher de cominho; sal; pimenta; mix de folhas verdes; tomates-cereja; suco de 1 limão.",
+    "modo_preparo": "Escorra o grão-de-bico, seque bem e tempere com azeite, páprica, cominho, sal e pimenta. Espalhe em assadeira e asse a 200 °C por 25 minutos até crocante. Misture ao mix de folhas e tomates, regue com suco de limão e sirva."
+  },
+  "418": {
+    "titulo": "Macarrão com Molho de Tomate e Manjericão",
+    "ingredientes": "500 g de macarrão; 1 kg de tomates pelados; 1 cebola; 4 dentes de alho; 1/2 xícara de azeite; folhas de manjericão fresco; sal; pimenta; 1 colher de chá de açúcar.",
+    "modo_preparo": "Refogue a cebola e o alho no azeite. Adicione os tomates amassados, o açúcar, sal e pimenta. Cozinhe por 20 minutos em fogo baixo. Finalize com manjericão. Sirva sobre o macarrão cozido al dente."
+  },
+  "419": {
+    "titulo": "Risoto de Limão e Ervilha",
+    "ingredientes": "2 xícaras de arroz arbóreo; 1 litro de caldo de legumes quente; 1 xícara de ervilhas; suco e raspas de 1 limão; 1 cebola; 2 dentes de alho; 1/2 xícara de vinho branco; 3 colheres de azeite; sal; pimenta.",
+    "modo_preparo": "Refogue a cebola e o alho no azeite. Adicione o arroz e frite por 1 minuto. Despeje o vinho e mexa até absorver. Adicione o caldo quente concha a concha, mexendo sempre. Ao final, incorpore as ervilhas, o suco e as raspas de limão. Ajuste o sal e sirva."
+  },
+  "420": {
+    "titulo": "Torta Salgada de Liquidificador Sem Ovos",
+    "ingredientes": "2 xícaras de farinha de trigo; 1 xícara de leite vegetal; 1/2 xícara de azeite; 1 colher de sopa de fermento; 1 colher de sopa de vinagre; 1 colher de chá de sal; recheio de palmito ou frango desfiado.",
+    "modo_preparo": "Bata no liquidificador o leite vegetal, o azeite, o vinagre e o sal. Misture a farinha e o fermento. Coloque metade da massa na forma, adicione o recheio e cubra com o restante. Asse a 180 °C por 35 a 40 minutos até dourar."
+  },
+  "421": {
+    "titulo": "Bolo de Limão Vegano",
+    "ingredientes": "2 xícaras de farinha de trigo; 1 xícara de açúcar; 1/2 xícara de óleo; 1/2 xícara de suco de limão; 1/2 xícara de água; raspas de 1 limão; 1 colher de sopa de fermento; 1 pitada de sal.",
+    "modo_preparo": "Misture o açúcar, o óleo, o suco e as raspas de limão. Adicione a farinha, o sal e por fim o fermento. Despeje em forma untada e asse a 180 °C por 35 minutos. Cubra com uma calda simples de suco de limão e açúcar de confeiteiro."
+  },
+  "422": {
+    "titulo": "Creme de Abóbora Assada",
+    "ingredientes": "1 abóbora cabotiá; 1 cebola; 3 dentes de alho; 200 ml de leite de coco; caldo de legumes; sal; pimenta; noz-moscada; azeite.",
+    "modo_preparo": "Asse a abóbora cortada ao meio com azeite, sal e pimenta a 200 °C por 40 minutos. Retire a polpa e bata no liquidificador com a cebola refogada, o alho, o leite de coco e o caldo de legumes. Aqueça, tempere com noz-moscada e sirva."
+  },
+  "423": {
+    "titulo": "Bolinho de Arroz Sem Ovos",
+    "ingredientes": "2 xícaras de arroz cozido; 1 xícara de farinha de trigo; 1/2 xícara de queijo vegano ralado (opcional); 1 cebola ralada; sal; orégano; salsinha; 1 colher de sopa de amido de milho dissolvido em 3 colheres de água (liga).",
+    "modo_preparo": "Misture o arroz, a farinha, o amido dissolvido, a cebola, os temperos e o queijo. A mistura de amido substitui o ovo na liga. Molde os bolinhos e frite em óleo quente até dourar, ou asse a 200 °C por 20 minutos."
+  },
+  "424": {
+    "titulo": "Tapioca Recheada com Carne Seca",
+    "ingredientes": "4 colheres de sopa de goma de tapioca hidratada; 200 g de carne seca dessalgada e desfiada; 1/2 cebola; 1 tomate; coentro; sal.",
+    "modo_preparo": "Refogue a cebola e a carne seca até dourar. Adicione o tomate, o coentro e tempere. Aqueça uma frigideira antiaderente seca e espalhe a goma. Cozinhe até grudar formando um disco. Dobre ao meio com o recheio dentro e sirva quente."
+  },
+  "425": {
+    "titulo": "Bolo de Mel de Engenho Sem Ovos",
+    "ingredientes": "2 xícaras de farinha de trigo integral; 1/2 xícara de mel de engenho (ou melado de cana); 1/2 xícara de óleo; 1/2 xícara de leite vegetal; 1 colher de sopa de vinagre de maçã; 1 colher de sopa de fermento; 1 colher de chá de cravo; 1 colher de chá de canela.",
+    "modo_preparo": "Misture o mel, o óleo e o leite vegetal. Adicione a farinha, as especiarias e o vinagre. Por último, adicione o fermento. Despeje em forma untada e asse a 180 °C por 35 a 40 minutos."
+  },
+  "426": {
+    "titulo": "Strogonoff de Frango sem Ovos",
+    "ingredientes": "500 g de peito de frango em cubos; 1 cebola; 2 dentes de alho; 200 ml de creme de leite vegetal (aveia ou coco); 3 colheres de molho de tomate; 1 colher de mostarda; sal; pimenta; azeite.",
+    "modo_preparo": "Refogue o frango com cebola e alho no azeite. Adicione o molho de tomate, a mostarda, sal e pimenta. Cozinhe por 5 minutos e finalize com o creme vegetal. Sirva com arroz e batata-palha."
+  },
+  "427": {
+    "titulo": "Quiche de Alho-poró Sem Ovos",
+    "ingredientes": "Massa: 2 xícaras de farinha; 1/2 xícara de azeite; 1/4 xícara de água; sal; Recheio: 1 alho-poró fatiado; 200 g de tofu silken; 1/2 xícara de leite vegetal; 2 colheres de amido; sal; pimenta; noz-moscada.",
+    "modo_preparo": "Asse a massa por 15 minutos a 180 °C. Refogue o alho-poró. Bata o tofu silken com o leite, o amido, sal, pimenta e noz-moscada. Misture ao alho-poró e despeje sobre a massa. Asse por mais 30 minutos até firmar."
+  },
+  "428": {
+    "titulo": "Cuscuz Paulista de Sardinha Sem Ovos",
+    "ingredientes": "2 xícaras de farinha de milho grossa; 1 lata de sardinha; 1/2 xícara de molho de tomate; 1 cebola; 1 tomate; azeitonas; salsinha; sal; azeite; caldo de peixe ou água.",
+    "modo_preparo": "Hidrate a farinha com o caldo quente, tempere com sal e azeite. Refogue a cebola, a sardinha e o tomate. Unte a fôrma de cuscuz, distribua parte do refogado, camadas de farinha e o restante do recheio. Acomode e deixe firmar por 10 minutos antes de desenformar."
+  },
+  "429": {
+    "titulo": "Pão de Mel Sem Ovos",
+    "ingredientes": "1 xícara de farinha de trigo; 1/2 xícara de cacau em pó; 1/2 xícara de mel; 1/2 xícara de leite vegetal; 1 colher de sopa de vinagre; 1 colher de chá de bicarbonato; 1 colher de chá de canela; 1 colher de chá de cravo moído.",
+    "modo_preparo": "Misture os ingredientes secos. Combine o mel com o leite vegetal e o vinagre. Una as misturas até obter uma massa espessa. Coloque em forminhas de silicone e asse a 170 °C por 20 minutos. Banhe em chocolate amargo derretido se desejar."
+  },
+  "430": {
+    "titulo": "Flan de Baunilha Sem Ovos",
+    "ingredientes": "500 ml de leite vegetal; 4 colheres de sopa de amido de milho; 4 colheres de sopa de açúcar; 1 colher de chá de baunilha; Calda: 1/2 xícara de açúcar; 2 colheres de água.",
+    "modo_preparo": "Prepare a calda dourada e forre a forma. Dissolva o amido no leite frio, adicione o açúcar e a baunilha. Cozinhe em fogo médio mexendo sempre até engrossar e borbulhar por 1 minuto. Despeje sobre a calda, deixe esfriar e leve à geladeira por 4 horas."
+  },
+  "431": {
+    "titulo": "Macarrão de Arroz com Legumes",
+    "ingredientes": "300 g de macarrão de arroz; 1 cenoura em julienne; 1 abobrinha em julienne; 1 pimentão vermelho; 2 dentes de alho; 3 colheres de sopa de shoyu; 2 colheres de azeite; cebolinha; gergelim.",
+    "modo_preparo": "Cozinhe o macarrão de arroz conforme a embalagem e reserve. Refogue o alho no azeite e adicione os legumes por 3 minutos. Adicione o macarrão e o shoyu, misturando bem. Finalize com cebolinha e gergelim."
+  },
+  "432": {
+    "titulo": "Muffin de Chocolate Sem Ovos",
+    "ingredientes": "1 e 1/2 xícara de farinha de trigo; 1/2 xícara de cacau em pó; 1 xícara de açúcar; 1 xícara de leite vegetal; 1/3 xícara de óleo; 1 colher de sopa de vinagre de maçã; 1 colher de sopa de fermento; 1 pitada de sal.",
+    "modo_preparo": "Misture os ingredientes secos. Combine os líquidos separadamente. Una delicadamente sem bater demais. Despeje em forminhas de muffin untadas até 3/4 da altura. Asse a 180 °C por 20 a 22 minutos. Deixe esfriar antes de servir."
+  },
+  "433": {
+    "titulo": "Arroz com Feijão e Couve Refogada",
+    "ingredientes": "2 xícaras de arroz; 1 xícara de feijão cozido; 1 maço de couve fatiada fino; 3 dentes de alho; 2 colheres de azeite; sal; pimenta.",
+    "modo_preparo": "Prepare o arroz separadamente. Para o feijão, tempere com alho dourado em azeite. Refogue a couve no alho com azeite e sal por 2 a 3 minutos até murchar. Monte o prato servindo arroz, feijão e couve lado a lado."
+  },
+  "434": {
+    "titulo": "Bolo de Milho Sem Ovos",
+    "ingredientes": "1 lata de milho verde; 1 xícara de leite vegetal; 1/2 xícara de óleo; 1 xícara de açúcar; 1 e 1/2 xícara de fubá; 1/2 xícara de farinha de trigo; 1 colher de sopa de fermento; 1 pitada de sal.",
+    "modo_preparo": "Bata o milho com o leite vegetal no liquidificador. Acrescente o óleo e o açúcar e bata mais. Despeje sobre o fubá, a farinha e o sal, misturando bem. Por fim, adicione o fermento. Asse em forma untada a 180 °C por 40 minutos."
+  },
+  "435": {
+    "titulo": "Caldo Verde Sem Ovos",
+    "ingredientes": "4 batatas cozidas; 1 cebola; 3 dentes de alho; 1 litro de caldo de legumes; 1 maço de couve fatiada; 100 g de linguiça vegana (opcional); sal; azeite.",
+    "modo_preparo": "Refogue a cebola e o alho. Adicione as batatas e o caldo. Amasse bem até obter um caldo cremoso. Adicione a linguiça fatiada e deixe ferver. Finalize com a couve fina e o azeite, servindo quente."
+  },
+  "436": {
+    "titulo": "Frango Assado com Batatas",
+    "ingredientes": "1 kg de coxa e sobrecoxa de frango; 6 batatas médias; 1 cebola; 6 dentes de alho; suco de 2 limões; 1/2 xícara de azeite; alecrim; orégano; sal; pimenta.",
+    "modo_preparo": "Marine o frango por 30 minutos no alho, limão, azeite e temperos. Coloque numa assadeira com as batatas cortadas ao redor. Cubra com papel alumínio e asse a 200 °C por 45 minutos. Retire o papel e asse por mais 20 minutos para dourar."
+  },
+  "437": {
+    "titulo": "Creme de Mandioca com Camarão",
+    "ingredientes": "500 g de mandioca cozida; 300 g de camarão limpo; 1 cebola; 2 dentes de alho; 200 ml de leite de coco; sal; pimenta; coentro; azeite de dendê.",
+    "modo_preparo": "Bata a mandioca cozida com um pouco de água de cozimento até obter um creme liso. Refogue o camarão com cebola, alho, sal, pimenta e dendê. Misture ao creme de mandioca e o leite de coco. Finalize com coentro e sirva com arroz."
+  },
+  "438": {
+    "titulo": "Hambúrguer Artesanal Sem Ovos",
+    "ingredientes": "500 g de carne moída; 1 cebola ralada; 2 dentes de alho amassados; 2 colheres de farinha de rosca; sal; pimenta; 1 colher de sopa de mostarda; salsinha.",
+    "modo_preparo": "Misture a carne moída com a cebola, o alho, a farinha de rosca (substitui o ovo), a mostarda e os temperos. Modele os hambúrgueres e grelhe em frigideira quente por 4 a 5 minutos de cada lado. A farinha de rosca dá liga sem necessidade de ovo."
+  },
+  "439": {
+    "titulo": "Empadinha de Palmito Sem Ovos",
+    "ingredientes": "Massa: 3 xícaras de farinha de trigo; 150 g de margarina vegetal; 1/4 xícara de leite vegetal; sal; Recheio: 1 vidro de palmito picado; 1 cebola; molho de tomate; azeitonas; salsinha; amido de milho para engrossar.",
+    "modo_preparo": "Misture a farinha com a margarina até obter farofa e adicione o leite vegetal até formar massa. Prepare o recheio refogando o palmito com cebola, tomate e temperando. Forre forminhas com a massa, recheie e cubra. Asse a 180 °C por 25 a 30 minutos."
+  },
+  "440": {
+    "titulo": "Vitamina de Mamão e Aveia",
+    "ingredientes": "1 mamão papaia maduro; 1 xícara de leite vegetal; 3 colheres de aveia em flocos; 1 colher de mel; gelo a gosto.",
+    "modo_preparo": "Bata tudo no liquidificador até obter um smoothie cremoso. Sirva imediatamente com gelo."
+  },
+  "441": {
+    "titulo": "Doce de Batata Doce",
+    "ingredientes": "500 g de batata-doce cozida e amassada; 1 xícara de açúcar; 1 xícara de coco ralado; canela a gosto; cravos a gosto; 1/2 xícara de água.",
+    "modo_preparo": "Leve a batata-doce, o açúcar, a água, o coco, a canela e os cravos ao fogo, mexendo sempre até atingir consistência de doce espesso. Transfira para uma travessa e deixe esfriar antes de servir."
+  },
+  "442": {
+    "titulo": "Lasanha de Abobrinha Sem Ovos",
+    "ingredientes": "3 abobrinhas fatiadas no sentido do comprimento; 500 g de carne moída ou proteína de soja; molho de tomate; 1 xícara de creme vegetal (aveia); sal; orégano; queijo vegano (opcional).",
+    "modo_preparo": "Grelhe as fatias de abobrinha. Monte as camadas: abobrinha, carne refogada com molho e creme vegetal. Repita as camadas e finalize com o creme e queijo vegano. Asse a 180 °C por 30 minutos."
+  },
+  "443": {
+    "titulo": "Pão de Batata Sem Ovos",
+    "ingredientes": "2 xícaras de batata cozida e amassada; 3 xícaras de farinha de trigo; 1 sachê de fermento biológico seco; 1/4 xícara de leite vegetal morno; 2 colheres de azeite; 1 colher de açúcar; 1 colher de chá de sal.",
+    "modo_preparo": "Dissolva o fermento no leite morno com o açúcar. Misture a batata, o azeite e o sal. Adicione a mistura de fermento e vá incorporando a farinha até obter uma massa macia. Sove, deixe crescer por 1 hora e asse a 180 °C por 30 minutos."
+  },
+  "444": {
+    "titulo": "Salada Caesar Sem Ovos",
+    "ingredientes": "1 pé de alface romana; croutons de pão; Molho: 1/2 xícara de maionese vegana; 1 dente de alho; suco de 1 limão; 1 colher de mostarda; 1 colher de alcaparras; sal; pimenta.",
+    "modo_preparo": "Prepare o molho batendo todos os ingredientes até emulsificar. Rasgue as folhas de alface e monte a salada com os croutons. Regue com o molho e sirva imediatamente."
+  },
+  "445": {
+    "titulo": "Canjica Sem Ovos",
+    "ingredientes": "500 g de canjica branca; 400 ml de leite de coco; 1 xícara de açúcar; 2 colheres de leite condensado vegano; canela em pau; cravo; leite vegetal q.b.",
+    "modo_preparo": "Deixe a canjica de molho por 8 horas. Cozinhe na pressão por 30 minutos com bastante água. Escorra, adicione o leite de coco, o açúcar, o leite condensado vegano, a canela e o cravo. Cozinhe em fogo baixo até engrossar. Sirva quente ou fria com canela em pó."
+  },
+  "446": {
+    "titulo": "Pirão de Peixe",
+    "ingredientes": "400 g de filé de peixe (tilápia ou corvina); 1 litro de caldo de peixe; 1 xícara de farinha de mandioca; 1 cebola; 2 tomates; coentro; sal; azeite de dendê.",
+    "modo_preparo": "Cozinhe o peixe no caldo temperado com cebola, tomate e dendê. Retire o peixe e desfie. Despeje a farinha de mandioca no caldo fervente em fio, mexendo sempre até formar um pirão cremoso. Adicione o peixe desfiado e sirva com arroz."
+  },
+  "447": {
+    "titulo": "Bolo de Fubá Sem Ovos",
+    "ingredientes": "1 e 1/2 xícara de fubá; 1/2 xícara de farinha de trigo; 1 xícara de açúcar; 1/2 xícara de óleo; 1 xícara de leite vegetal; 1 colher de sopa de fermento; 1 colher de sopa de vinagre; erva-doce a gosto.",
+    "modo_preparo": "Misture o fubá, a farinha, o açúcar e a erva-doce. Adicione o leite vegetal, o óleo e o vinagre. Por fim, adicione o fermento e misture. Despeje em forma untada e asse a 180 °C por 35 a 40 minutos."
+  },
+  "448": {
+    "titulo": "Escondidinho de Mandioca com Carne Seca",
+    "ingredientes": "800 g de mandioca cozida; 300 g de carne seca dessalgada e desfiada; 1 cebola; 2 dentes de alho; 200 ml de leite de coco; manteiga vegetal; sal; queijo vegano (opcional).",
+    "modo_preparo": "Amasse a mandioca com o leite de coco e a manteiga vegetal até obter um purê firme. Refogue a carne seca com cebola e alho. Monte em refratário: purê, carne, purê. Salpique queijo vegano e asse a 200 °C por 20 minutos."
+  },
+  "449": {
+    "titulo": "Sorvete de Coco Vegano",
+    "ingredientes": "2 latas de leite de coco (400 ml cada); 1/2 xícara de açúcar; 1 xícara de coco ralado; 1 colher de chá de baunilha.",
+    "modo_preparo": "Bata o leite de coco, o açúcar e a baunilha até dissolver. Adicione o coco ralado e misture. Despeje em recipiente e leve ao congelador. A cada 30 minutos nas primeiras 2 horas, quebre os cristais de gelo com um garfo. Depois deixe congelar completamente."
   "200": {
     "titulo": "Pão de Forma Sem Glúten Cremoso",
     "ingredientes": "Farinha de arroz;Polvilho doce;Farinha de amêndoas;Ovos;Água morna;Fermento biológico seco;Açúcar;Sal;Azeite de oliva",
@@ -574,4 +823,5 @@
     "ingredientes": "Leite condensado;Leite integral;Ovos;Açúcar para o caramelo",
     "modo_preparo": "O pudim tradicional é naturalmente sem glúten. Bata os ingredientes no liquidificador, despeje na fôrma caramelizada e asse em banho-maria por 1 hora e meia."
   }
+
 }
