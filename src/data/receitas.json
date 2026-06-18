@@ -648,6 +648,180 @@
     "titulo": "Sorvete de Coco Vegano",
     "ingredientes": "2 latas de leite de coco (400 ml cada); 1/2 xícara de açúcar; 1 xícara de coco ralado; 1 colher de chá de baunilha.",
     "modo_preparo": "Bata o leite de coco, o açúcar e a baunilha até dissolver. Adicione o coco ralado e misture. Despeje em recipiente e leve ao congelador. A cada 30 minutos nas primeiras 2 horas, quebre os cristais de gelo com um garfo. Depois deixe congelar completamente."
+  "200": {
+    "titulo": "Pão de Forma Sem Glúten Cremoso",
+    "ingredientes": "Farinha de arroz;Polvilho doce;Farinha de amêndoas;Ovos;Água morna;Fermento biológico seco;Açúcar;Sal;Azeite de oliva",
+    "modo_preparo": "Misture os ingredientes secos, adicione os líquidos e bata bem. Deixe crescer por 30 minutos e asse em fôrma untada a 180°C por 35 minutos."
+  },
+  "201": {
+    "titulo": "Bolo de Chocolate com Farinha de Arroz",
+    "ingredientes": "Farinha de arroz;Cacau em pó;Açúcar;Ovos;Óleo de girassol;Água morna;Fermento em pó",
+    "modo_preparo": "Bata os ovos com o açúcar e o óleo. Adicione o cacau e a farinha de arroz alternando com a água. Incorpore o fermento e asse por 40 minutos."
+  },
+  "202": {
+    "titulo": "Nhoque de Mandioquinha Sem Glúten",
+    "ingredientes": "Mandioquinha cozida e espremida;Farinha de arroz;Polvilho doce;Gema de ovo;Sal;Azeite",
+    "modo_preparo": "Misture a mandioquinha morna com o sal, a gema e vá adicionando as farinhas até dar ponto de modelar. Corte em cubos e cozinhe em água fervente."
+  },
+  "203": {
+    "titulo": "Panqueca de Aveia Sem Glúten",
+    "ingredientes": "Farinha de aveia certificada sem glúten;Leite vegetal;Ovo;Sal;Azeite",
+    "modo_preparo": "Bata todos os ingredientes no liquidificador. Despeje porções em uma frigideira antiaderente untada e doure dos dois lados."
+  },
+  "204": {
+    "titulo": "Coxinha com Massa de Batata e Cornstarch",
+    "ingredientes": "Batata cozida e espremida;Amido de milho;Caldo de galinha caseiro;Manteiga;Frango desfiado temperado",
+    "modo_preparo": "Misture a batata, o caldo e a manteiga no fogo. Adicione o amido até desgrudar. Modele as coxinhas com o recheio e frite ou asse."
+  },
+  "205": {
+    "titulo": "Biscoito de Polvilho Tradicional",
+    "ingredientes": "Polvilho azedo;Água fervente;Óleo;Ovo;Sal",
+    "modo_preparo": "Escalde o polvilho com a água and o óleo ferventes. Deixe esfriar, adicione o ovo e o sal e misture até formar uma masa homogênea. Modele e asse."
+  },
+  "206": {
+    "titulo": "Torta de Liquidificador de Legumes",
+    "ingredientes": "Farinha de arroz;Amido de milho;Ovos;Óleo;Leite;Fermento em pó;Legumes picados a gosto",
+    "modo_preparo": "Bata os ingredientes da massa no liquidificador. Misture os legumes manualmente, despeje em uma fôrma e asse até dourar."
+  },
+  "207": {
+    "titulo": "Muffin de Banana e Canela",
+    "ingredientes": "Bananas maduras amassadas;Farinha de aveia sem glúten;Ovos;Canela em pó;Fermento em pó",
+    "modo_preparo": "Misture as bananas com os ovos, adicione a aveia e a canela. Finalize com o fermento e distribua em forminhas de muffin. Asse por 20 minutos."
+  },
+  "208": {
+    "titulo": "Pizza com Massa de Couve-Flor",
+    "ingredientes": "Couve-flor triturada e cozida;Ovo;Queijo parmesão ralado;Sal;Molho de tomate;Mussarela",
+    "modo_preparo": "Esprema bem a couve-flor para tirar a água. Misture com o ovo, queijo e sal. Abra em formato de disco e asse por 15 minutos. Recheie e volte ao forno."
+  },
+  "209": {
+    "titulo": "Pão de Queijo Mineiro",
+    "ingredientes": "Polvilho doce;Polvilho azedo;Queijo meia cura ralado;Ovos;Leite;Óleo;Sal",
+    "modo_preparo": "Escalde os polvilhos com o leite e óleo ferventes. Adicione os ovos e o queijo, sove bem, faça bolinhas e asse em forno preaquecido."
+  },
+  "210": {
+    "titulo": "Brownie de Farinha de Amêndoas",
+    "ingredientes": "Chocolate meio amargo sem glúten;Manteiga;Açúcar;Ovos;Farinha de amêndoas;Cacau em pó",
+    "modo_preparo": "Derreta o chocolate com a manteiga. Bata os ovos com o açúcar, incorpore o chocolate derretido e adicione a farinha de amêndoas. Asse por 25 minutos."
+  },
+  "211": {
+    "titulo": "Crepioca Fit de Frango",
+    "ingredientes": "Goma de tapioca hidratada;Ovo;Frango desfiado;Requeijão sem lactose;Sal",
+    "modo_preparo": "Bata a tapioca com o ovo e o sal. Despeje na frigideira e doure. Recheie com o frango e o requeijão e dobre ao meio."
+  },
+  "212": {
+    "titulo": "Bolo de Cenoura com Cobertura de Chocolate",
+    "ingredientes": "Cenouras;Ovos;Óleo;Açúcar;Farinha de arroz;Amido de milho;Fermento em pó",
+    "modo_preparo": "Bata as cenouras, ovos e óleo. Misture os secos. Asse por 40 minutos. Cubra com calda de cacau, açúcar e água."
+  },
+  "213": {
+    "titulo": "Esfiha Aberta Sem Glúten",
+    "ingredientes": "Farinha de arroz;Polvilho doce;Iogurte natural;Ovo;Fermento biológico;Carne moída temperada",
+    "modo_preparo": "Misture os ingredientes da massa até ficar moldável. Abra em discos finos com bordas, recheie com carne moída crua temperada e asse em forno alto."
+  },
+  "214": {
+    "titulo": "Pão de Alho com Massa de Mandioca",
+    "ingredientes": "Mandioca cozida e amassada;Farinha de arroz;Azeite;Alho triturado;Maionese;Sal",
+    "modo_preparo": "Misture a mandioca, farinha de arroz e azeite para criar a massa do pão. Asse. Corte e recheie com a mistura de maionese, alho e ervas."
+  },
+  "215": {
+    "titulo": "Macarrão de Arroz ao Pesto",
+    "ingredientes": "Macarrão de arroz (tipo bifum ou talharim);Manjericão fresco;Castanhas;Azeite de oliva;Alho;Parmesão",
+    "modo_preparo": "Cozinhe o macarrão de arroz. Bata os ingredientes do pesto no processador e misture ao macarrão quente antes de servir."
+  },
+  "216": {
+    "titulo": "Farofa de Linhaça e Cenoura",
+    "ingredientes": "Farinha de mandioca torrada;Sementes de linhaça;Cenoura ralada;Cebola;Manteiga;Sal",
+    "modo_preparo": "Refogue a cebola na manteiga, adicione a cenoura e a linhaça. Adicione a farinha de mandioca aos poucos mexendo sempre até dourar."
+  },
+  "217": {
+    "titulo": "Quiche de Alho-Poró Sem Glúten",
+    "ingredientes": "Farinha de grão-de-bico;Manteiga;Água;Alho-poró picado;Creme de leite;Ovos;Sal",
+    "modo_preparo": "Misture a farinha de grão-de-bico com a manteiga e água até formar uma massa. Forre a fôrma. Recheie com o alho-poró refogado, ovos e creme de leite batidos e asse."
+  },
+  "218": {
+    "titulo": "Rocambole de Carne Moída",
+    "ingredientes": "Carne moída;Cebola picada;Alho;Ovo;Farinha de amêndoas para dar liga;Presunto e queijo para rechear",
+    "modo_preparo": "Tempere a carne e misture o ovo e a farinha de amêndoas. Abra a carne sobre plástico filme, recheie, enrole como rocambole e asse coberto com papel alumínio."
+  },
+  "219": {
+    "titulo": "Waffle de Polvilho Doce",
+    "ingredientes": "Polvilho doce;Ovo;Iogurte natural;Óleo de coco;Sal;Fermento em pó",
+    "modo_preparo": "Bata todos os ingredientes com um garfo até obter uma massa lisa. Despeje na máquina de waffle quente até dourar."
+  },
+  "220": {
+    "titulo": "Galette de Grão-de-Bico com Tomate",
+    "ingredientes": "Farinha de grão-de-bico;Água;Azeite;Sal;Tomates cereja;Manjericão",
+    "modo_preparo": "Misture a farinha, água, azeite e sal até formar uma massa líquida espessa. Despeje na frigideira, espalhe os tomates por cima e doure dos dois lados."
+  },
+  "221": {
+    "titulo": "Empadão de Frango com Massa Podre Sem Glúten",
+    "ingredientes": "Farinha de arroz;Farinha de amêndoas;Manteiga gelada;Ovo;Sal;Frango desfiado cremoso",
+    "modo_preparo": "Misture as farinhas com a manteiga até formar uma farofa. Adicione o ovo para dar liga. Forre a fôrma, recheie com o frango e cubra com o restante da massa. Asse."
+  },
+  "222": {
+    "titulo": "Bolo de Fubá Cremoso da Vovó",
+    "ingredientes": "Fubá mimoso;Açúcar;Leite;Ovos;Manteiga;Queijo parmesão ralado;Fermento em pó",
+    "modo_preparo": "Bata todos os ingredientes no liquidificador (a massa fica bem líquida). Despeje em fôrma untada e asse até dourar por fora e ficar cremoso por dentro."
+  },
+  "223": {
+    "titulo": "Quibe Assado de Quinoa",
+    "ingredientes": "Carne moída;Quinoa cozida;Hortelã fresca;Cebola picada;Pimenta-síria;Sal",
+    "modo_preparo": "Misture muito bem a carne moída com a quinoa cozida fria e os temperos. Espalhe em uma assadeira untada, faça riscos diagonais e asse por 30 minutos."
+  },
+  "224": {
+    "titulo": "Biscoito Amanteigado de Maizena",
+    "ingredientes": "Amido de milho;Leite condensado;Manteiga em temperatura ambiente",
+    "modo_preparo": "Misture os ingredientes com as mãos até formar uma massa lisa que não gruda. Faça bolinhas, amasse levemente com um garfo e asse por 15 minutos."
+  },
+  "225": {
+    "titulo": "Hambúrguer Caseiro com Aveia Sem Glúten",
+    "ingredientes": "Carne moída;Farinha de aveia sem glúten;Cebola ralada;Sal;Cheiro-verde",
+    "modo_preparo": "Misture todos os ingredientes até obter uma massa homogênea. Modele os hambúrgueres e grelhe em frigideira bem quente com um fio de azeite."
+  },
+  "226": {
+    "titulo": "Crepe Francês de Farinha de Sarraceno",
+    "ingredientes": "Farinha de trigo sarraceno (naturalmente sem glúten);Água;Ovo;Sal;Manteiga para untar",
+    "modo_preparo": "Bata a farinha, água, ovo e sal. Deixe descansar por 1 hora. Faça crepes bem finos em uma frigideira quente e recheie a gosto."
+  },
+  "227": {
+    "titulo": "Panetone Caseiro Sem Glúten",
+    "ingredientes": "Farinha de arroz;Polvilho doce;Fécula de batata;Goma xantana;Ovos;Essência de panetone;Frutas cristalizadas",
+    "modo_preparo": "Misture os secos incluindo a goma xantana. Adicione os ovos, água e essência. Incorpore as frutas, coloque na fôrma de panetone e asse."
+  },
+  "228": {
+    "titulo": "Tabule de Quinoa Tropical",
+    "ingredientes": "Quinoa cozida;Tomate em cubos;Pepino em cubos;Hortelã picada;Suco de limão;Azeite de oliva",
+    "modo_preparo": "Misture todos os ingredientes em uma tigela, tempere com o limão, azeite, sal e pimenta. Sirva gelado."
+  },
+  "229": {
+    "titulo": "Bolo de Mandioca com Coco",
+    "ingredientes": "Mandioca crua ralada;Coco ralado fresco;Açúcar;Ovos;Manteiga;Leite de coco",
+    "modo_preparo": "Bata os ovos, açúcar e manteiga. Adicione a mandioca ralada, o coco e o leite de coco. Misture bem e asse até que fique firme e dourado."
+  },
+  "230": {
+    "titulo": "Dadinhos de Tapioca Light",
+    "ingredientes": "Tapioca granulada;Queijo coalho ralado;Leite quente;Sal;Pimenta-do-reino",
+    "modo_preparo": "Misture a tapioca e o queijo coalho. Despeje o leite quente mexendo sempre até firmar. Espalhe em uma fôrma, resfrie, corte em cubos e asse até dourar."
+  },
+  "231": {
+    "titulo": "Focaccia Sem Glúten de Alecrim",
+    "ingredientes": "Farinha de arroz;Fécula de batata;Polvilho doce;Goma xantana;Fermento biológico;Azeite;Alecrim;Sal grosso",
+    "modo_preparo": "Prepare a massa sovando levemente, coloque na fôrma, faça furos com os dedos, regue com bastante azeite, alecrim e sal grosso. Asse após crescer."
+  },
+  "232": {
+    "titulo": "Torta de Maçã Invertida Sem Glúten",
+    "ingredientes": "Farinha de arroz;Farinha de amêndoas;Açúcar demerara;Manteiga;Maçãs fatiadas;Canela",
+    "modo_preparo": "Caramelize o açúcar na fôrma, arrume as maçãs. Cubra com a massa feita com as farinhas, manteiga e ovo. Asse e desenforme quente."
+  },
+  "233": {
+    "titulo": "Salgado Maromba de Frango e Batata Doce",
+    "ingredientes": "Batata-doce cozida e amassada;Frango desfiado;Ovo para pincelar;Gergelim",
+    "modo_preparo": "Misture a batata-doce com metade do frango para fazer a massa. Recheie com o restante do frango, modele em formato de salgado, pincele ovo, jogue gergelim e asse."
+  },
+  "234": {
+    "titulo": "Pudim de Leite Condensado Tradicional",
+    "ingredientes": "Leite condensado;Leite integral;Ovos;Açúcar para o caramelo",
+    "modo_preparo": "O pudim tradicional é naturalmente sem glúten. Bata os ingredientes no liquidificador, despeje na fôrma caramelizada e asse em banho-maria por 1 hora e meia."
   }
 
 }
