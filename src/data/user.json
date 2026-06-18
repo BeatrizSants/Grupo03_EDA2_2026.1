@@ -836,6 +836,206 @@
       "214": { "peso_interacao": 5 },
       "122": { "peso_interacao": 5 }
     }
-  }
-
+  },
+  "550": {
+      "nome": "Ana Cláudia Ferreira",
+      "descricao": "Tem alergia severa a frutos do mar e peixes desde a infância. Busca receitas seguras e saborosas para toda a família, preferindo pratos com frango, carne bovina e preparações sem risco de contaminação cruzada.",
+      "interacoes": {
+        "500": { "peso_interacao": 5 },
+        "507": { "peso_interacao": 4 },
+        "530": { "peso_interacao": 3 },
+        "531": { "peso_interacao": 3 }
+      }
+    },
+    "551": {
+      "nome": "Roberto Lima Souza",
+      "descricao": "Diagnosticado com alergia a frutos do mar na adolescência, prefere pratos com carne bovina e suína. Aprecia culinária robusta e regional brasileira sem qualquer ingrediente marinho.",
+      "interacoes": {
+        "517": { "peso_interacao": 5 },
+        "521": { "peso_interacao": 4 },
+        "522": { "peso_interacao": 3 },
+        "526": { "peso_interacao": 2 }
+      }
+    },
+    "552": {
+      "nome": "Fernanda Oliveira Ramos",
+      "descricao": "Alergia a mariscos e crustáceos confirmada por alergologista. Busca receitas práticas para o cotidiano com foco em pratos cremosos e reconfortantes, evitando qualquer risco de contaminação.",
+      "interacoes": {
+        "508": { "peso_interacao": 5 },
+        "511": { "peso_interacao": 4 },
+        "514": { "peso_interacao": 3 },
+        "515": { "peso_interacao": 2 }
+      }
+    },
+    "553": {
+      "nome": "Carlos Eduardo Mendes",
+      "descricao": "Alérgico a frutos do mar, foca em carnes e aves para garantir sua ingestão proteica. Aprecia culinária brasileira farta e cozinha para a família aos finais de semana com receitas tradicionais.",
+      "interacoes": {
+        "503": { "peso_interacao": 5 },
+        "522": { "peso_interacao": 4 },
+        "525": { "peso_interacao": 4 },
+        "535": { "peso_interacao": 3 }
+      }
+    },
+    "554": {
+      "nome": "Isabela Santos Rocha",
+      "descricao": "Cresceu com alergia a peixe e frutos do mar e adora culinária brasileira regional. Busca alternativas saborosas como moqueca vegana e pratos nordestinos sem ingredientes marinhos.",
+      "interacoes": {
+        "503": { "peso_interacao": 5 },
+        "504": { "peso_interacao": 4 },
+        "513": { "peso_interacao": 3 },
+        "528": { "peso_interacao": 5 }
+      }
+    },
+    "555": {
+      "nome": "Marcelo Souza Pinto",
+      "descricao": "Alérgico a frutos do mar e praticante de musculação, busca receitas ricas em proteína com frango e carne bovina. Prioriza refeições equilibradas e práticas para o pós-treino.",
+      "interacoes": {
+        "500": { "peso_interacao": 5 },
+        "506": { "peso_interacao": 4 },
+        "508": { "peso_interacao": 5 },
+        "524": { "peso_interacao": 4 }
+      }
+    },
+    "556": {
+      "nome": "Letícia Ferreira Costa",
+      "descricao": "Tem alergia severa a peixes e crustáceos e segue dieta plant-based. Busca receitas veganas que também sejam seguras para sua restrição alérgica, como moquecas e risotos sem origem marinha.",
+      "interacoes": {
+        "501": { "peso_interacao": 5 },
+        "502": { "peso_interacao": 4 },
+        "504": { "peso_interacao": 5 },
+        "532": { "peso_interacao": 3 }
+      }
+    },
+    "557": {
+      "nome": "Paulo Ricardo Alves",
+      "descricao": "Alérgico a frutos do mar e entusiasta da culinária nordestina, busca pratos regionais sem peixe, como baião de dois, carne seca e paçoca. Aprecia sabores intensos do interior do Nordeste.",
+      "interacoes": {
+        "503": { "peso_interacao": 5 },
+        "513": { "peso_interacao": 5 },
+        "516": { "peso_interacao": 4 },
+        "528": { "peso_interacao": 5 }
+      }
+    },
+    "558": {
+      "nome": "Amanda Costa Vieira",
+      "descricao": "Mãe com alergia a peixe que prioriza receitas seguras e nutritivas para toda a família, especialmente com frango. Gosta de preparações simples e no forno que agradem crianças e adultos.",
+      "interacoes": {
+        "506": { "peso_interacao": 5 },
+        "511": { "peso_interacao": 4 },
+        "514": { "peso_interacao": 4 },
+        "520": { "peso_interacao": 3 }
+      }
+    },
+    "559": {
+      "nome": "Thiago Barbosa Neto",
+      "descricao": "Alérgico a frutos do mar e apaixonado por churrasco e carnes grelhadas. Prioriza espetinhos, assados e preparações com carnes variadas totalmente livres de ingredientes marinhos.",
+      "interacoes": {
+        "500": { "peso_interacao": 4 },
+        "517": { "peso_interacao": 5 },
+        "521": { "peso_interacao": 5 },
+        "524": { "peso_interacao": 5 }
+      }
+    },
+    "560": {
+      "nome": "Juliana Martins Barbosa",
+      "descricao": "Cozinheira caseira criativa com alergia a frutos do mar. Gosta de experimentar receitas de diferentes regiões do Brasil, adaptando pratos típicos para garantir que sejam seguros para sua restrição.",
+      "interacoes": {
+        "513": { "peso_interacao": 4 },
+        "518": { "peso_interacao": 3 },
+        "525": { "peso_interacao": 4 },
+        "527": { "peso_interacao": 5 }
+      }
+    },
+    "561": {
+      "nome": "Gustavo Alves Pereira",
+      "descricao": "Alergia confirmada a peixe e frutos do mar. Foca em alimentação saudável e equilibrada, privilegiando proteínas magras como frango grelhado e cortes bovinos magros no cotidiano.",
+      "interacoes": {
+        "500": { "peso_interacao": 5 },
+        "507": { "peso_interacao": 3 },
+        "519": { "peso_interacao": 4 },
+        "533": { "peso_interacao": 3 }
+      }
+    },
+    "562": {
+      "nome": "Priscila Nunes Carvalho",
+      "descricao": "Vegana com alergia adicional a frutos do mar e peixe. Busca receitas 100% de origem vegetal que garantam também a ausência de ingredientes marinhos, evitando qualquer risco de reação alérgica.",
+      "interacoes": {
+        "501": { "peso_interacao": 5 },
+        "502": { "peso_interacao": 4 },
+        "504": { "peso_interacao": 5 },
+        "529": { "peso_interacao": 2 }
+      }
+    },
+    "563": {
+      "nome": "Leonardo Castro Figueiredo",
+      "descricao": "Alérgico a peixes desde criança e apaixonado por gastronomia italiana. Busca massas, risotos e sopas sofisticadas sem qualquer ingrediente de origem marinha para reproduzir em casa.",
+      "interacoes": {
+        "501": { "peso_interacao": 5 },
+        "507": { "peso_interacao": 5 },
+        "536": { "peso_interacao": 4 },
+        "537": { "peso_interacao": 5 }
+      }
+    },
+    "564": {
+      "nome": "Mariana Rodrigues Lima",
+      "descricao": "Alergia a frutos do mar diagnosticada na vida adulta. Prefere receitas de forno práticas e reconfortantes que possam ser preparadas rapidamente após o trabalho sem risco de exposição a alérgenos marinhos.",
+      "interacoes": {
+        "502": { "peso_interacao": 5 },
+        "511": { "peso_interacao": 4 },
+        "515": { "peso_interacao": 5 },
+        "538": { "peso_interacao": 4 }
+      }
+    },
+    "565": {
+      "nome": "Felipe Gomes Moreira",
+      "descricao": "Alergia severa a crustáceos e frutos do mar. Entusiasta de churrasco que aprecia carnes assadas com marinadas elaboradas, temperos marcantes e preparações 100% livres de ingredientes do mar.",
+      "interacoes": {
+        "517": { "peso_interacao": 4 },
+        "521": { "peso_interacao": 5 },
+        "524": { "peso_interacao": 5 },
+        "526": { "peso_interacao": 4 }
+      }
+    },
+    "566": {
+      "nome": "Camila Torres Nascimento",
+      "descricao": "Tem alergia a peixe e tem paixão por confeitaria e sobremesas tradicionais brasileiras. Garante que todas as suas receitas doces sejam completamente livres de ingredientes marinhos.",
+      "interacoes": {
+        "530": { "peso_interacao": 5 },
+        "531": { "peso_interacao": 5 },
+        "532": { "peso_interacao": 4 },
+        "529": { "peso_interacao": 3 }
+      }
+    },
+    "567": {
+      "nome": "Ricardo Mendes Oliveira",
+      "descricao": "Cozinheiro amador apaixonado por culinária italiana e francesa com alergia a frutos do mar. Busca massas, polentas e sopas sofisticadas sem qualquer ingrediente de origem marinha para reproduzir em casa.",
+      "interacoes": {
+        "501": { "peso_interacao": 4 },
+        "507": { "peso_interacao": 5 },
+        "537": { "peso_interacao": 5 },
+        "518": { "peso_interacao": 3 }
+      }
+    },
+    "568": {
+      "nome": "Vanessa Pereira Gomes",
+      "descricao": "Vegana com alergia a peixes e frutos do mar. Busca receitas de origem 100% vegetal que também sejam livres de qualquer contaminação por ingredientes marinhos, conciliando suas duas restrições.",
+      "interacoes": {
+        "501": { "peso_interacao": 5 },
+        "502": { "peso_interacao": 4 },
+        "504": { "peso_interacao": 4 },
+        "510": { "peso_interacao": 3 }
+      }
+    },
+    "569": {
+      "nome": "Henrique Lima Santos",
+      "descricao": "Alérgico a frutos do mar e apreciador da culinária mineira. Busca pratos tradicionais como feijão tropeiro, galinhada e empadão, reproduzindo o sabor caseiro do interior de Minas sem ingredientes marinhos.",
+      "interacoes": {
+        "503": { "peso_interacao": 5 },
+        "513": { "peso_interacao": 4 },
+        "525": { "peso_interacao": 5 },
+        "535": { "peso_interacao": 4 },
+        "539": { "peso_interacao": 5 }
+      }
+    }
 }
