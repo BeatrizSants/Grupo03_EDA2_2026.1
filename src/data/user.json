@@ -1,9 +1,199 @@
 {
   "1": {
-    "nome": "user01",
-    "descrição": "x",
+    "nome": "Ana Clara",
+    "descricao": "Vegetariana há 2 anos, gosta de receitas saudáveis e procura substituições de carne com proteína vegetal, como tofu e grão-de-bico.",
     "interacoes": {
-      "101": 1
+      "103": { "peso_interacao": 5 },
+      "120": { "peso_interacao": 3 },
+      "150": { "peso_interacao": 1 }
+
+    }
+  },
+  "2": {
+    "nome": "Bruno Henrique",
+    "descricao": "Vegano focado em alimentação fitness, busca alternativas à carne ricas em proteína, como proteína de soja e lentilha.",
+    "interacoes": {
+      "107": { "peso_interacao": 5 },
+      "121": { "peso_interacao": 3 },
+      "124": { "peso_interacao": 1 },
+      "137": { "peso_interacao": 1 }
+    }
+  },
+  "3": {
+    "nome": "Camila Souza",
+    "descricao": "Vegetariana que prefere refeições leves e saudáveis, interessada em hambúrgueres vegetais e legumes grelhados.",
+    "interacoes": {
+      "101": { "peso_interacao": 5 },
+      "104": { "peso_interacao": 3 },
+      "118": { "peso_interacao": 1 },
+      "140": { "peso_interacao": 1 }
+    }
+  },
+  "4": {
+    "nome": "Daniel Oliveira",
+    "descricao": "Vegano iniciante procurando substituir carnes vermelhas por opções naturais e nutritivas.",
+    "interacoes": {
+      "111": { "peso_interacao": 3 },
+      "143": { "peso_interacao": 5 },
+      "129": { "peso_interacao": 1 }
+    }
+  },
+  "5": {
+    "nome": "Eduarda Lima",
+    "descricao": "Vegetariana que gosta de cozinhar pratos saudáveis e experimentar substituições como cogumelos e jaca desfiada.",
+    "interacoes": {
+      "110": { "peso_interacao": 5 },
+      "144": { "peso_interacao": 3 },
+      "148": { "peso_interacao": 1 },
+      "139": { "peso_interacao": 1 }
+    }
+  },
+  "6": {
+    "nome": "Felipe Martins",
+    "descricao": "Vegano preocupado com saúde cardiovascular, evita ultraprocessados e prefere alimentos integrais.",
+    "interacoes": {
+      "108": { "peso_interacao": 5 },
+      "147": { "peso_interacao": 3 },
+      "149": { "peso_interacao": 1 }
+    }
+  },
+  "7": {
+    "nome": "Gabriela Costa",
+    "descricao": "Vegetariana interessada em alimentação equilibrada, procura receitas sem carne e ricas em vegetais.",
+    "interacoes": {
+      "119": { "peso_interacao": 3 },
+      "134": { "peso_interacao": 1 },
+      "140": { "peso_interacao": 5 },
+      "135": { "peso_interacao": 1 }
+    }
+  },
+  "8": {
+    "nome": "Henrique Alves",
+    "descricao": "Vegano esportista, gosta de refeições proteicas usando tofu, feijão, quinoa e proteína vegetal.",
+    "interacoes": {
+      "125": { "peso_interacao": 5 },
+      "123": { "peso_interacao": 3 },
+      "146": { "peso_interacao": 1 },
+      "150": { "peso_interacao": 1 }
+    }
+  },
+  "9": {
+    "nome": "Isabela Rocha",
+    "descricao": "Vegetariana que busca opções saudáveis para substituir frango e carne moída no dia a dia.",
+    "interacoes": {
+      "122": { "peso_interacao": 3 },
+      "129": { "peso_interacao": 5 },
+      "130": { "peso_interacao": 1 }
+    }
+  },
+  "10": {
+    "nome": "João Pedro",
+    "descricao": "Vegano que prefere refeições simples e nutritivas, com foco em legumes, castanhas e proteínas vegetais.",
+    "interacoes": {
+      "136": { "peso_interacao": 5 },
+      "145": { "peso_interacao": 1 },
+      "118": { "peso_interacao": 3 },
+      "149": { "peso_interacao": 1 }
+    }
+  },
+  "11": {
+    "nome": "Karina Mendes",
+    "descricao": "Vegetariana focada em alimentação saudável, gosta de receitas com soja, lentilha e vegetais frescos.",
+    "interacoes": {
+      "121": { "peso_interacao": 5 },
+      "123": { "peso_interacao": 3 },
+      "133": { "peso_interacao": 1 },
+      "138": { "peso_interacao": 1 }
+    }
+  },
+  "12": {
+    "nome": "Lucas Ferreira",
+    "descricao": "Vegano em transição alimentar, procura pratos que imitem carne, como hambúrguer vegetal e almôndegas de lentilha.",
+    "interacoes": {
+      "102": { "peso_interacao": 3 },
+      "129": { "peso_interacao": 5 },
+      "130": { "peso_interacao": 3 },
+      "131": { "peso_interacao": 1 },
+      "141": { "peso_interacao": 1 }
+    }
+  },
+  "13": {
+    "nome": "Mariana Ribeiro",
+    "descricao": "Vegetariana que prioriza alimentos naturais e substituições saudáveis para refeições tradicionais.",
+    "interacoes": {
+      "141": { "peso_interacao": 5 },
+      "117": { "peso_interacao": 1 },
+      "134": { "peso_interacao": 3 }
+    }
+  },
+  "14": {
+    "nome": "Nicolas Gomes",
+    "descricao": "Vegano interessado em culinária saudável, gosta de experimentar receitas com tofu e proteína texturizada de soja.",
+    "interacoes": {
+      "107": { "peso_interacao": 3 },
+      "124": { "peso_interacao": 1 },
+      "125": { "peso_interacao": 5 },
+      "144": { "peso_interacao": 1 }
+    }
+  },
+  "15": {
+    "nome": "Olivia Fernandes",
+    "descricao": "Vegetariana que prefere pratos leves, nutritivos e ricos em vegetais e grãos.",
+    "interacoes": {
+      "147": { "peso_interacao": 5 },
+      "135": { "peso_interacao": 3 },
+      "117": { "peso_interacao": 1 }
+    }
+  },
+  "16": {
+    "nome": "Pedro Henrique",
+    "descricao": "Vegano focado em ganho de massa muscular, busca refeições ricas em proteína vegetal e baixa gordura.",
+    "interacoes": {
+      "123": { "peso_interacao": 5 },
+      "107": { "peso_interacao": 3 },
+      "128": { "peso_interacao": 1 },
+      "137": { "peso_interacao": 1 },
+      "150": { "peso_interacao": 1 }
+    }
+  },
+  "17": {
+    "nome": "Quitéria Silva",
+    "descricao": "Vegetariana interessada em alimentação sustentável e substituições de carne usando cogumelos e leguminosas.",
+    "interacoes": {
+      "110": { "peso_interacao": 3 },
+      "128": { "peso_interacao": 5 },
+      "139": { "peso_interacao": 1 }
+    }
+  },
+  "18": {
+    "nome": "Rafael Barbosa",
+    "descricao": "Vegano que busca refeições saudáveis e práticas para o dia a dia, evitando produtos industrializados.",
+    "interacoes": {
+      "118": { "peso_interacao": 3 },
+      "149": { "peso_interacao": 5 },
+      "145": { "peso_interacao": 1 },
+      "117": { "peso_interacao": 1 }
+    }
+  },
+  "19": {
+    "nome": "Sofia Almeida",
+    "descricao": "Vegetariana que gosta de testar receitas saudáveis e opções criativas para substituir carnes.",
+    "interacoes": {
+      "101": { "peso_interacao": 3 },
+      "122": { "peso_interacao": 5 },
+      "132": { "peso_interacao": 1 },
+      "143": { "peso_interacao": 1 }
+    }
+  },
+  "20": {
+    "nome": "Thiago Costa",
+    "descricao": "Vegano focado em alimentação balanceada, procura refeições nutritivas com vegetais e proteínas vegetais.",
+    "interacoes": {
+      "136": { "peso_interacao": 3 },
+      "126": { "peso_interacao": 5 },
+      "133": { "peso_interacao": 1 },
+      "146": { "peso_interacao": 1 },
+      "148": { "peso_interacao": 1 }
     }
   }
 }
