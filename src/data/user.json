@@ -3,384 +3,208 @@
     "nome": "Carlos Eduardo",
     "descricao": "Intolerante à lactose desde criança. Prefere receitas práticas e doces adaptados.",
     "interacoes": {
-      "321": {
-        "peso_interacao": 3
-      },
-      "308": {
-        "peso_interacao": 3
-      },
-      "325": {
-        "peso_interacao": 5
-      },
-      "311": {
-        "peso_interacao": 5
-      }
+      "321": { "peso_interacao": 3 },
+      "308": { "peso_interacao": 3 },
+      "325": { "peso_interacao": 5 },
+      "311": { "peso_interacao": 5 }
     }
   },
   "42": {
     "nome": "Mariana Costa",
     "descricao": "Buscando cortar laticínios por questões inflamatórias. Gosta de pratos salgados.",
     "interacoes": {
-      "304": {
-        "peso_interacao": 1
-      },
-      "300": {
-        "peso_interacao": 5
-      },
-      "325": {
-        "peso_interacao": 3
-      },
-      "315": {
-        "peso_interacao": 3
-      }
+      "304": { "peso_interacao": 1 },
+      "300": { "peso_interacao": 5 },
+      "325": { "peso_interacao": 3 },
+      "315": { "peso_interacao": 3 }
     }
   },
   "43": {
     "nome": "Felipe Santos",
     "descricao": "Alergia severa à proteína do leite (APLV). Precisa de segurança total nas receitas.",
     "interacoes": {
-      "313": {
-        "peso_interacao": 5
-      },
-      "306": {
-        "peso_interacao": 1
-      },
-      "305": {
-        "peso_interacao": 1
-      }
+      "313": { "peso_interacao": 5 },
+      "306": { "peso_interacao": 1 },
+      "305": { "peso_interacao": 1 }
     }
   },
   "44": {
     "nome": "Juliana Lima",
     "descricao": "Intolerante a lactose leve, mas prefere evitar. Foco em alimentação saudável.",
     "interacoes": {
-      "313": {
-        "peso_interacao": 1
-      },
-      "328": {
-        "peso_interacao": 1
-      },
-      "316": {
-        "peso_interacao": 1
-      },
-      "325": {
-        "peso_interacao": 1
-      }
+      "313": { "peso_interacao": 1 },
+      "328": { "peso_interacao": 1 },
+      "316": { "peso_interacao": 1 },
+      "325": { "peso_interacao": 1 }
     }
   },
   "45": {
     "nome": "Pedro Henrique",
     "descricao": "Evita lactose. Gosta de comida caseira, massas e bolos.",
     "interacoes": {
-      "309": {
-        "peso_interacao": 5
-      },
-      "300": {
-        "peso_interacao": 1
-      },
-      "321": {
-        "peso_interacao": 1
-      },
-      "314": {
-        "peso_interacao": 1
-      }
+      "309": { "peso_interacao": 5 },
+      "300": { "peso_interacao": 1 },
+      "321": { "peso_interacao": 1 },
+      "314": { "peso_interacao": 1 }
     }
   },
   "46": {
     "nome": "Beatriz Almeida",
     "descricao": "Intolerância moderada. Ama sobremesas sem lactose e pães.",
     "interacoes": {
-      "322": {
-        "peso_interacao": 3
-      },
-      "329": {
-        "peso_interacao": 1
-      },
-      "306": {
-        "peso_interacao": 1
-      }
+      "322": { "peso_interacao": 3 },
+      "329": { "peso_interacao": 1 },
+      "306": { "peso_interacao": 1 }
     }
   },
   "47": {
     "nome": "Lucas Pereira",
     "descricao": "Restrição a lactose. Busca lanches rápidos para o dia a dia.",
     "interacoes": {
-      "322": {
-        "peso_interacao": 5
-      },
-      "302": {
-        "peso_interacao": 5
-      },
-      "304": {
-        "peso_interacao": 5
-      },
-      "313": {
-        "peso_interacao": 1
-      },
-      "319": {
-        "peso_interacao": 1
-      },
-      "308": {
-        "peso_interacao": 3
-      }
+      "322": { "peso_interacao": 5 },
+      "302": { "peso_interacao": 5 },
+      "304": { "peso_interacao": 5 },
+      "313": { "peso_interacao": 1 },
+      "319": { "peso_interacao": 1 },
+      "308": { "peso_interacao": 3 }
     }
   },
   "48": {
     "nome": "Ana Beatriz",
     "descricao": "Cortou o leite da dieta recentemente. Gosta de testar queijos vegetais.",
     "interacoes": {
-      "327": {
-        "peso_interacao": 3
-      },
-      "318": {
-        "peso_interacao": 3
-      },
-      "306": {
-        "peso_interacao": 3
-      },
-      "317": {
-        "peso_interacao": 1
-      },
-      "316": {
-        "peso_interacao": 5
-      },
-      "325": {
-        "peso_interacao": 3
-      }
+      "327": { "peso_interacao": 3 },
+      "318": { "peso_interacao": 3 },
+      "306": { "peso_interacao": 3 },
+      "317": { "peso_interacao": 1 },
+      "316": { "peso_interacao": 5 },
+      "325": { "peso_interacao": 3 }
     }
   },
   "49": {
     "nome": "Gabriel Souza",
     "descricao": "Nutricionista com foco em pacientes sem lactose. Gosta de receitas ricas em fibras.",
     "interacoes": {
-      "324": {
-        "peso_interacao": 3
-      },
-      "311": {
-        "peso_interacao": 5
-      },
-      "312": {
-        "peso_interacao": 3
-      },
-      "326": {
-        "peso_interacao": 3
-      },
-      "302": {
-        "peso_interacao": 5
-      }
+      "324": { "peso_interacao": 3 },
+      "311": { "peso_interacao": 5 },
+      "312": { "peso_interacao": 3 },
+      "326": { "peso_interacao": 3 },
+      "302": { "peso_interacao": 5 }
     }
   },
   "50": {
     "nome": "Isabella Rodrigues",
     "descricao": "APLV. Adora culinária brasileira adaptada, como moquecas e estrogonofe.",
     "interacoes": {
-      "307": {
-        "peso_interacao": 3
-      },
-      "301": {
-        "peso_interacao": 3
-      },
-      "323": {
-        "peso_interacao": 3
-      },
-      "311": {
-        "peso_interacao": 5
-      }
+      "307": { "peso_interacao": 3 },
+      "301": { "peso_interacao": 3 },
+      "323": { "peso_interacao": 3 },
+      "311": { "peso_interacao": 5 }
     }
   },
   "51": {
     "nome": "Thiago Silva",
     "descricao": "Intolerante à lactose. Gosta de pratos com leite de coco.",
     "interacoes": {
-      "311": {
-        "peso_interacao": 1
-      },
-      "319": {
-        "peso_interacao": 3
-      },
-      "322": {
-        "peso_interacao": 5
-      }
+      "311": { "peso_interacao": 1 },
+      "319": { "peso_interacao": 3 },
+      "322": { "peso_interacao": 5 }
     }
   },
   "52": {
     "nome": "Camila Ferreira",
     "descricao": "Evita lactose e prefere doces com frutas.",
     "interacoes": {
-      "302": {
-        "peso_interacao": 5
-      },
-      "312": {
-        "peso_interacao": 5
-      },
-      "303": {
-        "peso_interacao": 5
-      }
+      "302": { "peso_interacao": 5 },
+      "312": { "peso_interacao": 5 },
+      "303": { "peso_interacao": 5 }
     }
   },
   "53": {
     "nome": "Rafael Gomes",
     "descricao": "Intolerante à lactose. Adora hambúrgueres caseiros e pizzas adaptadas.",
     "interacoes": {
-      "324": {
-        "peso_interacao": 3
-      },
-      "303": {
-        "peso_interacao": 1
-      },
-      "314": {
-        "peso_interacao": 3
-      },
-      "312": {
-        "peso_interacao": 3
-      }
+      "324": { "peso_interacao": 3 },
+      "303": { "peso_interacao": 1 },
+      "314": { "peso_interacao": 3 },
+      "312": { "peso_interacao": 3 }
     }
   },
   "54": {
     "nome": "Larissa Martins",
     "descricao": "Sensibilidade a laticínios. Prefere vitaminas e smoothies sem leite.",
     "interacoes": {
-      "307": {
-        "peso_interacao": 1
-      },
-      "300": {
-        "peso_interacao": 3
-      },
-      "321": {
-        "peso_interacao": 3
-      },
-      "309": {
-        "peso_interacao": 3
-      },
-      "327": {
-        "peso_interacao": 5
-      },
-      "322": {
-        "peso_interacao": 1
-      }
+      "307": { "peso_interacao": 1 },
+      "300": { "peso_interacao": 3 },
+      "321": { "peso_interacao": 3 },
+      "309": { "peso_interacao": 3 },
+      "327": { "peso_interacao": 5 },
+      "322": { "peso_interacao": 1 }
     }
   },
   "55": {
     "nome": "Matheus Carvalho",
     "descricao": "Intolerante à lactose. Fã de doces e sobremesas que não levam manteiga.",
     "interacoes": {
-      "312": {
-        "peso_interacao": 1
-      },
-      "327": {
-        "peso_interacao": 3
-      },
-      "301": {
-        "peso_interacao": 3
-      },
-      "318": {
-        "peso_interacao": 5
-      },
-      "313": {
-        "peso_interacao": 5
-      },
-      "322": {
-        "peso_interacao": 5
-      }
+      "312": { "peso_interacao": 1 },
+      "327": { "peso_interacao": 3 },
+      "301": { "peso_interacao": 3 },
+      "318": { "peso_interacao": 5 },
+      "313": { "peso_interacao": 5 },
+      "322": { "peso_interacao": 5 }
     }
   },
   "56": {
     "nome": "Amanda Ribeiro",
     "descricao": "Sem lactose. Gosta de purês, cremes e molhos adaptados.",
     "interacoes": {
-      "321": {
-        "peso_interacao": 5
-      },
-      "318": {
-        "peso_interacao": 1
-      },
-      "304": {
-        "peso_interacao": 3
-      },
-      "313": {
-        "peso_interacao": 3
-      }
+      "321": { "peso_interacao": 5 },
+      "318": { "peso_interacao": 1 },
+      "304": { "peso_interacao": 3 },
+      "313": { "peso_interacao": 3 }
     }
   },
   "57": {
     "nome": "Gustavo Melo",
     "descricao": "Buscando receitas sem lactose para o almoço de domingo.",
     "interacoes": {
-      "308": {
-        "peso_interacao": 5
-      },
-      "327": {
-        "peso_interacao": 1
-      },
-      "304": {
-        "peso_interacao": 5
-      },
-      "319": {
-        "peso_interacao": 3
-      },
-      "301": {
-        "peso_interacao": 1
-      },
-      "325": {
-        "peso_interacao": 3
-      }
+      "308": { "peso_interacao": 5 },
+      "327": { "peso_interacao": 1 },
+      "304": { "peso_interacao": 5 },
+      "319": { "peso_interacao": 3 },
+      "301": { "peso_interacao": 1 },
+      "325": { "peso_interacao": 3 }
     }
   },
   "58": {
     "nome": "Fernanda Alves",
     "descricao": "Intolerante. Sempre procurando boas massas sem leite e sem queijo.",
     "interacoes": {
-      "321": {
-        "peso_interacao": 3
-      },
-      "325": {
-        "peso_interacao": 1
-      },
-      "322": {
-        "peso_interacao": 1
-      },
-      "312": {
-        "peso_interacao": 3
-      }
+      "321": { "peso_interacao": 3 },
+      "325": { "peso_interacao": 1 },
+      "322": { "peso_interacao": 1 },
+      "312": { "peso_interacao": 3 }
     }
   },
   "59": {
     "nome": "João Victor",
     "descricao": "Evita laticínios. Adora receitas fit com batata doce e aveia.",
     "interacoes": {
-      "306": {
-        "peso_interacao": 1
-      },
-      "301": {
-        "peso_interacao": 1
-      },
-      "312": {
-        "peso_interacao": 5
-      },
-      "319": {
-        "peso_interacao": 3
-      },
-      "326": {
-        "peso_interacao": 5
-      }
+      "306": { "peso_interacao": 1 },
+      "301": { "peso_interacao": 1 },
+      "312": { "peso_interacao": 5 },
+      "319": { "peso_interacao": 3 },
+      "326": { "peso_interacao": 5 }
     }
   },
   "60": {
     "nome": "Letícia Castro",
     "descricao": "Intolerância severa. Prefere sorvetes de frutas e comidas refrescantes.",
     "interacoes": {
-      "323": {
-        "peso_interacao": 5
-      },
-      "316": {
-        "peso_interacao": 1
-      },
-      "313": {
-        "peso_interacao": 3
-      },
-      "309": {
-        "peso_interacao": 5
-      }
+      "323": { "peso_interacao": 5 },
+      "316": { "peso_interacao": 1 },
+      "313": { "peso_interacao": 3 },
+      "309": { "peso_interacao": 5 }
     }
   }
 }
