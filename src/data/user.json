@@ -404,15 +404,193 @@
       "309": { "peso_interacao": 5 }
     }
   },
-  "400": {
-    "nome": "Marina Silva",
-    "descrição": "Desenvolvi alergia a ovo na vida adulta e sofro muito porque amo doces. Busco receitas de bolos, tortas e sobremesas sem ovo que não percam a textura e o sabor original.",
+  "61": {
+    "nome": "Aline Moreira",
+    "descricao": "Alérgica a ovo desde criança. Ama doces e aprecia bolos adaptados que substituem o ovo com banana ou aveia.",
     "interacoes": {
-      "400": {
-        "peso": 5,
-        "curtiu": true,
-        "comentario": "Perfeito! Usei aquafaba e ficou muito fofinho, não dá diferença nenhuma."
-      }
+      "400": { "peso_interacao": 5 },
+      "405": { "peso_interacao": 3 },
+      "406": { "peso_interacao": 1 }
+    }
+  },
+  "62": {
+    "nome": "Bruno Lacerda",
+    "descricao": "Tem alergia severa a ovo. Prefere receitas salgadas do dia a dia sem risco de contaminação.",
+    "interacoes": {
+      "418": { "peso_interacao": 5 },
+      "433": { "peso_interacao": 3 },
+      "436": { "peso_interacao": 1 }
+    }
+  },
+  "63": {
+    "nome": "Carla Mendonça",
+    "descricao": "Descobriu a alergia a ovo após testes e busca receitas sem ovos para o café da manhã e sobremesas.",
+    "interacoes": {
+      "401": { "peso_interacao": 5 },
+      "407": { "peso_interacao": 3 },
+      "411": { "peso_interacao": 1 }
+    }
+  },
+  "64": {
+    "nome": "Diego Fonseca",
+    "descricao": "Alergia a ovo moderada. Gosta de massas, pães e pratos salgados adaptados.",
+    "interacoes": {
+      "402": { "peso_interacao": 5 },
+      "413": { "peso_interacao": 3 },
+      "443": { "peso_interacao": 3 },
+      "414": { "peso_interacao": 1 }
+    }
+  },
+  "65": {
+    "nome": "Eduarda Pires",
+    "descricao": "Alérgica a ovo e fã de sobremesas. Sempre procura alternativas criativas para fazer doces sem ovos.",
+    "interacoes": {
+      "403": { "peso_interacao": 5 },
+      "404": { "peso_interacao": 5 },
+      "430": { "peso_interacao": 3 },
+      "432": { "peso_interacao": 1 }
+    }
+  },
+  "66": {
+    "nome": "Fábio Nunes",
+    "descricao": "Restrição a ovo por alergia alimentar. Prefere comida caseira e pratos tradicionais adaptados.",
+    "interacoes": {
+      "448": { "peso_interacao": 5 },
+      "437": { "peso_interacao": 3 },
+      "446": { "peso_interacao": 1 }
+    }
+  },
+  "67": {
+    "nome": "Giovana Tavares",
+    "descricao": "Diagnosticada com alergia a proteína do ovo. Gosta de fitness e busca refeições proteicas sem ovo.",
+    "interacoes": {
+      "417": { "peso_interacao": 5 },
+      "426": { "peso_interacao": 3 },
+      "419": { "peso_interacao": 1 }
+    }
+  },
+  "68": {
+    "nome": "Hugo Magalhães",
+    "descricao": "Filho com alergia a ovo. Ele mesmo aprendeu a cozinhar sem usar ovos para garantir a segurança da família.",
+    "interacoes": {
+      "420": { "peso_interacao": 5 },
+      "439": { "peso_interacao": 5 },
+      "442": { "peso_interacao": 3 }
+    }
+  },
+  "69": {
+    "nome": "Isadora Braga",
+    "descricao": "Tem alergia a ovo e ama festas juninas. Procura receitas de canjica, bolo de fubá e milho sem ovos.",
+    "interacoes": {
+      "445": { "peso_interacao": 5 },
+      "447": { "peso_interacao": 5 },
+      "434": { "peso_interacao": 3 }
+    }
+  },
+  "70": {
+    "nome": "Jonas Cavalcanti",
+    "descricao": "Alérgico a ovo. Prefere lanches rápidos e pães para o dia a dia.",
+    "interacoes": {
+      "402": { "peso_interacao": 3 },
+      "424": { "peso_interacao": 5 },
+      "443": { "peso_interacao": 1 }
+    }
+  },
+  "71": {
+    "nome": "Kelly Rangel",
+    "descricao": "Alergia a ovo desde a infância. Ama sobremesas geladas e sorvetes sem derivados de ovo.",
+    "interacoes": {
+      "449": { "peso_interacao": 5 },
+      "409": { "peso_interacao": 3 },
+      "410": { "peso_interacao": 1 }
+    }
+  },
+  "72": {
+    "nome": "Leandro Azevedo",
+    "descricao": "Restringe ovos por alergia. Gosta de culinária nordestina adaptada, como cuscuz e carne seca.",
+    "interacoes": {
+      "428": { "peso_interacao": 5 },
+      "424": { "peso_interacao": 3 },
+      "448": { "peso_interacao": 3 },
+      "446": { "peso_interacao": 1 }
+    }
+  },
+  "73": {
+    "nome": "Marina Cristina",
+    "descricao": "Alergia a ovo diagnosticada na vida adulta. Está adaptando receitas clássicas, como nhoque e tortas.",
+    "interacoes": {
+      "413": { "peso_interacao": 5 },
+      "410": { "peso_interacao": 3 },
+      "427": { "peso_interacao": 1 }
+    }
+  },
+  "74": {
+    "nome": "Nilton Bastos",
+    "descricao": "Alérgico a ovo e procura proteínas alternativas. Gosta de pratos com frango e carne adaptados.",
+    "interacoes": {
+      "436": { "peso_interacao": 5 },
+      "438": { "peso_interacao": 5 },
+      "426": { "peso_interacao": 3 },
+      "415": { "peso_interacao": 1 }
+    }
+  },
+  "75": {
+    "nome": "Olivia Campelo",
+    "descricao": "Evita ovos por alergia. Gosta muito de sopas e cremes para o jantar.",
+    "interacoes": {
+      "416": { "peso_interacao": 5 },
+      "422": { "peso_interacao": 5 },
+      "435": { "peso_interacao": 3 }
+    }
+  },
+  "76": {
+    "nome": "Paulo Drummond",
+    "descricao": "Alergia a ovo. Busca receitas de muffin, biscoito e bolo para levar ao trabalho.",
+    "interacoes": {
+      "432": { "peso_interacao": 5 },
+      "405": { "peso_interacao": 3 },
+      "429": { "peso_interacao": 3 },
+      "425": { "peso_interacao": 1 }
+    }
+  },
+  "77": {
+    "nome": "Queila Santana",
+    "descricao": "Nutricionista especializada em alergias. Faz receitas sem ovo para seus pacientes e usa tofu e linhaça como substitutos.",
+    "interacoes": {
+      "427": { "peso_interacao": 5 },
+      "423": { "peso_interacao": 3 },
+      "431": { "peso_interacao": 1 }
+    }
+  },
+  "78": {
+    "nome": "Rodrigo Veiga",
+    "descricao": "Alérgico a ovo. Ama comida italiana e busca massas, risoto e molhos sem ovo.",
+    "interacoes": {
+      "418": { "peso_interacao": 5 },
+      "419": { "peso_interacao": 3 },
+      "431": { "peso_interacao": 3 },
+      "413": { "peso_interacao": 1 }
+    }
+  },
+  "79": {
+    "nome": "Simone Guedes",
+    "descricao": "Alergia a ovo severa. Prefere receitas doces para festas e aniversários completamente sem ovos.",
+    "interacoes": {
+      "400": { "peso_interacao": 3 },
+      "406": { "peso_interacao": 5 },
+      "412": { "peso_interacao": 5 },
+      "421": { "peso_interacao": 3 }
+    }
+  },
+  "80": {
+    "nome": "Tânia Rocha",
+    "descricao": "Intolerância severa a ovo. Gosta de vitaminas, smoothies e doces naturais sem necessidade de ovo.",
+    "interacoes": {
+      "440": { "peso_interacao": 5 },
+      "441": { "peso_interacao": 3 },
+      "404": { "peso_interacao": 3 },
+      "408": { "peso_interacao": 1 }
     }
   }
+
 }
