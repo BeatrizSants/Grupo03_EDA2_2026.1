@@ -19,12 +19,12 @@ def main():
         print(f"Título: {receita['titulo']}")
 
         print("\nIngredientes:")
-        for ingrediente in receita["ingredientes"]:
+        lista_ingredientes = [ing.strip() for ing in receita["ingredientes"].split(";") if ing.strip()]
+        for ingrediente in lista_ingredientes:
             print(f"- {ingrediente}")
 
         print("\nModo de preparo:")
-        for passo in receita["modo_preparo"]:
-            print(passo)
+        print(receita["modo_preparo"])
 
         print("\n" + "-" * 50)
 
