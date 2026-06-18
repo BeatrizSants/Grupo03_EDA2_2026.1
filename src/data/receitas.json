@@ -3,5 +3,155 @@
     "titulo": "receita01",
     "ingredientes": "x",
     "modo_preparo": "y"
+  },
+  "300": {
+    "titulo": "Bolo de Chocolate Sem Lactose",
+    "ingredientes": "2 xícaras de farinha de trigo; 1 xícara de açúcar; 1/2 xícara de cacau em pó; 1 xícara de água quente; 1/2 xícara de óleo; 1 colher de sopa de fermento",
+    "modo_preparo": "Misture os secos, adicione os líquidos, bata bem e asse por 40 min a 180C."
+  },
+  "301": {
+    "titulo": "Panqueca de Banana Sem Lactose",
+    "ingredientes": "2 bananas; 2 ovos; 1/2 xícara de aveia; 1 colher de chá de canela",
+    "modo_preparo": "Amasse as bananas, misture os ovos e aveia. Frite pequenas porções em frigideira untada."
+  },
+  "302": {
+    "titulo": "Estrogonofe de Frango com Leite de Coco",
+    "ingredientes": "500g de frango em cubos; 1 cebola picada; 2 dentes de alho; 200ml de leite de coco; 3 colheres de molho de tomate; sal e pimenta",
+    "modo_preparo": "Refogue o frango com alho e cebola. Adicione o molho de tomate e por fim o leite de coco."
+  },
+  "303": {
+    "titulo": "Torta Salgada de Liquidificador",
+    "ingredientes": "3 ovos; 1 xícara de óleo; 2 xícaras de água ou leite vegetal; 2 xícaras de farinha; 1 colher de fermento; recheio a gosto",
+    "modo_preparo": "Bata os líquidos, depois os secos. Coloque metade da massa na assadeira, o recheio, e o restante da massa. Asse a 180C."
+  },
+  "304": {
+    "titulo": "Brigadeiro Sem Lactose",
+    "ingredientes": "1 lata de leite condensado de soja ou aveia; 3 colheres de cacau em pó; 1 colher de óleo de coco",
+    "modo_preparo": "Misture tudo na panela em fogo baixo até desgrudar do fundo."
+  },
+  "305": {
+    "titulo": "Vitamina de Abacate",
+    "ingredientes": "1/2 abacate; 200ml de leite de amêndoas; 1 colher de mel",
+    "modo_preparo": "Bata tudo no liquidificador e sirva gelado."
+  },
+  "306": {
+    "titulo": "Pão de Queijo Fake (Sem Queijo/Lactose)",
+    "ingredientes": "2 xícaras de polvilho azedo; 1 xícara de purê de batata baroa; 1/3 xícara de óleo; sal a gosto",
+    "modo_preparo": "Misture tudo até formar uma massa homogênea. Faça bolinhas e asse até dourar."
+  },
+  "307": {
+    "titulo": "Biscoito de Coco",
+    "ingredientes": "1 xícara de coco ralado; 1 xícara de farinha de arroz; 1/2 xícara de açúcar demerara; 2 colheres de óleo de coco; 1 ovo",
+    "modo_preparo": "Misture bem, molde os biscoitos e asse a 180C por 15 minutos."
+  },
+  "308": {
+    "titulo": "Purê de Batata Sem Manteiga",
+    "ingredientes": "4 batatas médias; 1/2 xícara de leite de aveia; sal e noz-moscada",
+    "modo_preparo": "Cozinhe e amasse as batatas. Misture com o leite de aveia no fogo baixo até ficar cremoso."
+  },
+  "309": {
+    "titulo": "Molho Branco Sem Lactose",
+    "ingredientes": "2 colheres de azeite; 2 colheres de farinha de arroz; 500ml de leite de castanhas; sal e noz-moscada",
+    "modo_preparo": "Doure a farinha no azeite, adicione o leite de castanhas aos poucos mexendo sempre até engrossar."
+  },
+  "310": {
+    "titulo": "Sorvete de Manga e Banana",
+    "ingredientes": "2 mangas congeladas; 2 bananas congeladas",
+    "modo_preparo": "Bata as frutas congeladas no processador até obter textura de sorvete."
+  },
+  "311": {
+    "titulo": "Macarrão ao Molho Pesto Vegano/Sem Lactose",
+    "ingredientes": "500g de macarrão; 2 xícaras de manjericão; 1/2 xícara de azeite; 1/3 xícara de nozes; 1 dente de alho; sal",
+    "modo_preparo": "Bata o manjericão, azeite, nozes e alho. Misture ao macarrão cozido."
+  },
+  "312": {
+    "titulo": "Pizza com Massa de Couve-flor",
+    "ingredientes": "1 couve-flor processada; 1 ovo; sal e orégano; molho de tomate",
+    "modo_preparo": "Misture a couve-flor, ovo e temperos. Espalhe em forma de pizza, asse, coloque cobertura sem lactose e asse mais um pouco."
+  },
+  "313": {
+    "titulo": "Mousse de Chocolate Sem Lactose",
+    "ingredientes": "2 abacates maduros; 1/2 xícara de cacau em pó; 1/2 xícara de mel ou melado",
+    "modo_preparo": "Bata tudo no processador e leve à geladeira."
+  },
+  "314": {
+    "titulo": "Cookies com Gotas de Chocolate (Chocolate Sem Leite)",
+    "ingredientes": "1 e 1/2 xícara de farinha de aveia; 1/2 xícara de açúcar mascavo; 1 ovo; 1/4 xícara de óleo de coco; gotas de chocolate sem leite",
+    "modo_preparo": "Misture ingredientes e asse por 12 minutos a 180C."
+  },
+  "315": {
+    "titulo": "Pudim Sem Lactose",
+    "ingredientes": "1 lata de leite condensado de aveia; mesma medida de leite vegetal; 3 ovos",
+    "modo_preparo": "Bata no liquidificador, coloque em forma caramelizada e asse em banho-maria."
+  },
+  "316": {
+    "titulo": "Bolo de Cenoura Sem Lactose",
+    "ingredientes": "3 cenouras; 1/2 xícara de óleo; 3 ovos; 2 xícaras de farinha; 1 e 1/2 xícara de açúcar; fermento",
+    "modo_preparo": "Bata cenoura, óleo e ovos. Misture aos secos. Asse a 180C por 40 min."
+  },
+  "317": {
+    "titulo": "Creme de Milho Sem Leite",
+    "ingredientes": "1 lata de milho; 1 xícara de leite de arroz; 1 colher de amido de milho; meia cebola",
+    "modo_preparo": "Bata o milho com leite de arroz. Refogue a cebola, adicione a mistura e mexa até engrossar."
+  },
+  "318": {
+    "titulo": "Quiche de Alho Poró",
+    "ingredientes": "Massa: farinha e azeite; Recheio: creme de tofu, alho poró refogado, sal",
+    "modo_preparo": "Asse a massa previamente. Adicione o recheio e asse até firmar."
+  },
+  "319": {
+    "titulo": "Risoto de Cogumelos",
+    "ingredientes": "2 xícaras de arroz arbóreo; 200g de cogumelos; caldo de legumes; 1/2 taça de vinho branco",
+    "modo_preparo": "Refogue cogumelos. Adicione arroz, vinho, e vá colocando caldo até cozinhar. Finalize com azeite em vez de manteiga."
+  },
+  "320": {
+    "titulo": "Moqueca de Peixe e Camarão",
+    "ingredientes": "500g de peixe; 300g de camarão; pimentões; cebola; tomate; 200ml de leite de coco; azeite de dendê",
+    "modo_preparo": "Cozinhe em camadas na panela de barro, adicione o leite de coco e dendê. Ferva por 15 min."
+  },
+  "321": {
+    "titulo": "Hambúrguer de Lentilha",
+    "ingredientes": "1 xícara de lentilha cozida; 1/2 cebola; alho; farinha de aveia para dar ponto",
+    "modo_preparo": "Amasse a lentilha, tempere, misture a farinha, molde os hambúrgueres e grelhe."
+  },
+  "322": {
+    "titulo": "Sopa de Abóbora com Gengibre",
+    "ingredientes": "1/2 abóbora cabotiá cozida; 1 pedaço de gengibre; água ou caldo de legumes",
+    "modo_preparo": "Bata a abóbora com gengibre e caldo. Aqueça e tempere."
+  },
+  "323": {
+    "titulo": "Pão Doce de Batata Doce",
+    "ingredientes": "2 xícaras de batata doce cozida e amassada; farinha de trigo ou aveia; fermento biológico",
+    "modo_preparo": "Sove a massa, deixe crescer e asse."
+  },
+  "324": {
+    "titulo": "Iogurte de Coco Caseiro",
+    "ingredientes": "Polpa de 2 cocos verdes; suco de 1 limão; probióticos (opcional)",
+    "modo_preparo": "Bata a polpa de coco com limão e água de coco até virar creme."
+  },
+  "325": {
+    "titulo": "Pão de Alho Sem Manteiga",
+    "ingredientes": "Pães franceses; azeite; alho triturado; maionese sem leite",
+    "modo_preparo": "Faça a pasta, recheie os pães e leve à churrasqueira ou forno."
+  },
+  "326": {
+    "titulo": "Lasanha de Berinjela",
+    "ingredientes": "Berinjelas fatiadas; carne moída; molho de tomate; queijo vegano (opcional)",
+    "modo_preparo": "Monte as camadas intercalando berinjela e molho com carne. Asse por 30 min."
+  },
+  "327": {
+    "titulo": "Maionese de Abacate",
+    "ingredientes": "1 abacate; suco de 1 limão; 1 dente de alho; sal; fio de azeite",
+    "modo_preparo": "Bata tudo no liquidificador até emulsificar."
+  },
+  "328": {
+    "titulo": "Doce de Leite Vegano/Sem Lactose",
+    "ingredientes": "1 litro de leite de amêndoas; 1 xícara de açúcar demerara",
+    "modo_preparo": "Ferva em fogo bem baixo mexendo sempre até reduzir e caramelizar."
+  },
+  "329": {
+    "titulo": "Farofa de Banana da Terra",
+    "ingredientes": "2 bananas da terra picadas; 1 xícara de farinha de mandioca; cebola; azeite",
+    "modo_preparo": "Doure a cebola no azeite, adicione a banana e depois a farinha."
   }
 }
