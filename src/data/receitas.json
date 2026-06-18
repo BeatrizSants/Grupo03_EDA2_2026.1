@@ -1,19 +1,402 @@
 {
   "101": {
-    "titulo": "receita01",
-    "ingredientes": "x",
-    "modo_preparo": "y"
+    "titulo": "Hambúrguer de feijão com beterraba",
+    "ingredientes": "1 xícara de cebola branca picada; 1 fio de azeite para untar a frigideira; 2 dentes de alho picados ou amassados; 1/2 xícara de beterraba ralada; 1/2 xícara de cenoura ralada; 1 colher de sopa de molho shoyu; Pimenta-caiena a gosto (opcional); Suco de 1/2 limão; 2 xícaras de feijão cozido; 1 e 1/2 xícara de fubá; Sal a gosto.",
+    "modo_preparo": "Refogue a cebola e o alho em um fio de azeite até murchar. Adicione a beterraba, a cenoura, o shoyu, o suco de meio limão e uma pitada de pimenta-caiena. Refogue por 10 minutos. Em um processador de alimentos ou liquidificador, adicione o feijão, o refogado da panela e uma pitada de sal, adicionando o fubá aos poucos. Retire e molde os hambúrgueres do tamanho desejado, envolvendo cada um com um pouco de fubá. Coloque os hambúrgueres em uma forma untada com azeite e leve ao forno médio para assar por cerca de 10 minutos de cada lado."
   },
-  "400": {
-    "titulo": "Bolo de Cenoura sem Ovo",
-    "ingredientes": [
-      "2 cenouras médias",
-      "1 xícara de óleo de girassol",
-      "1 xícara de açúcar",
-      "2 xícaras de farinha de trigo",
-      "1 colher de sopa de fermento em pó",
-      "3 colheres de sopa de aquafaba (água do grão-de-bico)"
-    ],
-    "modo_preparo": "Bata no liquidificador a cenoura, o óleo e a aquafaba até obter uma mistura homogênea. Transfira para uma tigela, adicione o açúcar, a farinha e o fermento, misturando delicadamente. Despeje em forma untada e enfarinhada. Leve ao forno a 180°C por 35 minutos ou até o palito sair limpo."
+  "102": {
+    "titulo": "Hambúrguer de aveia e berinjela",
+    "ingredientes": "1 xícara de aveia em flocos; 1 cebola; 2 dentes de alho; 1 berinjela; 1 tira de pimentão vermelho; 1 colher de sopa de molho de tomate; 2 colheres de sopa de beterraba ralada; 1 colher de sopa de linhaça moída; 2 colheres de sopa de cebolinha e salsa picadas; Sal e azeite a gosto.",
+    "modo_preparo": "Lave e pique em cubos a cebola, o alho, a berinjela e o pimentão. Em uma panela, deixe a aveia ferver com ½ xícara de água por 10 minutos. Em uma frigideira aquecida, doure o alho e a cebola com um fio de azeite, em seguida adicione a berinjela, o pimentão, a polpa de tomate, a aveia cozida, a beterraba ralada e a linhaça. Tempere a gosto e cozinhe por 5 minutos. Triture tudo em um liquidificador ou processador até o ponto de uma massa granulosa e moldável. Após amornar, umedeça as mãos com azeite para retirar as porções em formato de bolinhas e depois achate-as. Grelhe os hambúrgueres em uma frigideira quente até estarem levemente dourados ou, alternativamente, pincele os hambúrgueres com azeite e leve ao forno a 200 °C por 20 minutos."
+  },
+  "103": {
+    "titulo": "Patê vegano: homus",
+    "ingredientes": "2 xícaras de grão-de-bico cozido; ½ xícara da água do cozimento do grão-de-bico ou mais, se necessário; 1 colher de sopa de tahine (opcional); Suco de 1 limão; 2 colheres de sopa de azeite de oliva; 1 ramo de salsinha; 1 colher de chá de sal; 1 dente de alho picado; Pimenta-do-reino a gosto; 1/2 colher de chá de cominho.",
+    "modo_preparo": "Bata todos os ingredientes no liquidificador, acrescentando mais da água do cozimento, se necessário, para bater melhor. Finalize adicionando temperos como azeite de oliva, salsinha, páprica doce, pimenta-do-reino e sal a gosto."
+  },
+  "104": {
+    "titulo": "Churrasco vegano",
+    "ingredientes": "Tofu; Cogumelos; Carne e salsicha de soja; Berinjela cortada em cubos; Cebola cortada ao meio ou inteira com casca (para assar na churrasqueira); Pimentões recheados com queijo vegano; Cenoura em cubos grandes; Couve-flor; Abobrinha; Brócolis; Vagem; Espiga de milho; Tomate sem semente; Frutas como maçã, abacaxi e pêssego.",
+    "modo_preparo": "Asse o tofu, os cogumelos e a carne de soja na churrasqueira. Todos os legumes também podem ser assados, especialmente o pimentão recheado com queijo, que irá derreter com o calor. Além disso, os legumes podem ser consumidos crus na forma de salada, e pode-se usar o pão de alho para acompanhar as carnes veganas."
+  },
+  "105": {
+    "titulo": "Empadão vegano",
+    "ingredientes": "240 g de palmito pupunha; 150 g de vagem bem picadinha; 1 lata de seleta de legumes; 50 g de azeitona preta fatiada; 100 g de cebola; 30 ml de azeite; 2 g de orégano; 120 ml de água; 1 colher de sopa de amido de milho; Sal a gosto; Pimenta-do-reino a gosto; Massa: 1 caixinha de grão-de-bico cozido; 20 ml de azeite; Sal a gosto; 3 g de cúrcuma; 150 g de farinha de arroz; 60 ml de água.",
+    "modo_preparo": "Para o recheio, refogue a cebola com azeite. Acrescente o palmito, a vagem, a cenoura e o orégano; cozinhe com a água até que fique al dente. Tempere com sal e pimenta. Coloque o amido de milho dissolvido em um pouco de água, mexendo sempre até incorporar no recheio. Acrescente a azeitona e desligue o fogo. Na tigela com a farinha de arroz, adicione a mistura e mexa com a ajuda das mãos até formar uma massa firme. Forre o fundo de pequenos recipientes com parte da massa. Coloque o recheio. Cubra com a outra parte da massa. Leve ao forno preaquecido a 180 °C por aproximadamente 30 minutos."
+  },
+  "106": {
+    "titulo": "Estrogonofe vegano",
+    "ingredientes": "1 xícara de aveia; 2 xícaras de água morna; 1 fio de azeite; 1/2 cebola picada; 4 dentes de alho picados; 300 g de palmito pupunha picado; 100 g de cogumelos champignon fatiados; 1 xícara de molho de tomate; 2 colheres de sopa de mostarda; 1/2 xícara de salsinha; Tomilho fresco a gosto; Alecrim fresco a gosto; 1/2 xícara de água; Sal a gosto; Pimenta-do-reino a gosto.",
+    "modo_preparo": "Em uma tigela, misture a aveia com a água morna. Deixe de molho por 30 minutos. Em seguida, bata no liquidificador e reserve. Em uma frigideira, esquente 1 fio de azeite e refogue a cebola e o alho. Acrescente o palmito, os cogumelos, o molho de tomate, a mostarda e o creme de aveia reservado. Mexe bem e acrescente a salsinha, o tomilho e o alecrim fresco. Adicione a água e tempere com sal e pimenta-do-reino a gosto."
+  },
+  "107": {
+    "titulo": "Frango xadrez vegano (com proteína texturizada de soja)",
+    "ingredientes": "150 g de proteína texturizada de soja (PTS) graúda; 1 cebola; 1 pimentão verde cortado em cubos; 1 pimentão vermelho cortado em cubos; 1 pedaço pequeno de gengibre ralado; 1 cenoura grande cortada em rodelas; 1 cebola grande cortada em cubos; 1 xícara de shoyu; 2 colheres de amido de milho; 100 g de amendoim torrado sem sal; Azeite.",
+    "modo_preparo": "Cubra a PTS com água morna e 2 colheres de shoyu e deixe hidratando por 30 minutos. Escorra a PTS e esprema com um pano para retirar o máximo de água possível. Em uma panela, aqueça o azeite e refogue a PTS até ficar dourada. Cubra com água, coloque uma xícara de shoyu e adicione a cenoura e o gengibre. Deixe ferver até a cenoura ficar al dente. Em seguida, coloque o pimentão e a cebola e deixe cozinhar até começar a amolecer. No final, dissolva 2 colheres de amido de milho em 1/2 copo de água. Vá adicionando esta mistura até o molho engrossar, coloque o amendoim torrado e sirva."
+  },
+  "108": {
+    "titulo": "Risoto vegano",
+    "ingredientes": "1 xícara de chá de arroz integral; 300 g de legumes diversos (vagem, cenoura, ervilha, brócolis e couve-flor); 100 g de cogumelos champignon inteiros; 100 g de azeitonas verdes sem caroço; 3 pimentas (de sua preferência); Azeite, sal e temperos frescos (orégano, tomilho, manjericão roxo e cheiro-verde) a gosto.",
+    "modo_preparo": "Pique as pimentas em pedaços bem pequenos e reserve. Cozinhe o arroz integral conforme as instruções do fabricante ou a sua preferência, juntamente com as pimentas picadas. Pique os legumes em cubinhos, cozinhando-os apenas com água. Após cozidos, escorra toda a água e reserve. Em uma panela, adicione um fio de azeite, os legumes cozidos, as azeitonas, os champignons, os temperos frescos e sal a gosto. Refogue-os bem até secar toda a água. Por fim, misture o arroz com os legumes refogados e sirva em seguida."
+  },
+  "109": {
+    "titulo": "Pão de cebola vegano",
+    "ingredientes": "1/2 xícara de chá de água morna; 1 xícara de chá de óleo; 2 cebolas médias; 1 pacote de fermento biológico seco; 1 e 1/2 colher de sopa de sal; Farinha de trigo até dar ponto (média de 4 xícaras cheias); Extrato de tomate para pincelar; Orégano para polvilhar.",
+    "modo_preparo": "Bata no liquidificador o óleo, a água morna, o sal, o açúcar e a cebola. Coloque o fermento em um recipiente seco, despeje a mistura anterior e deixe descansar por 10 a 15 minutos coberto com um pano. Vá acrescentando farinha aos poucos até obter uma massa macia que desgrude das mãos. Sove bem por 10 minutos. Divida em bolinhas achatadas e coloque em uma assadeira untada. Pincele extrato de tomate e polvilhe orégano. Deixe descansar por 1 hora e 20 minutos coberto com um pano úmido. Asse em forno a 180 °C por 30 minutos e depois mais 15 minutos a 210 °C."
+  },
+  "110": {
+    "titulo": "Estrogonofe de shiitake",
+    "ingredientes": "40 g de cogumelos shiitake desidratados; Cogumelos shimeji e/ou nameko a gosto; 1/2 caixa de creme de soja; 1/2 cebola média; 2 tomates médios; Alho a gosto; Noz-moscada a gosto; Páprica picante a gosto; Pimenta calabresa a gosto; 2 colheres de sopa de shoyu; 6 colheres de sopa de molho de tomate; Sal a gosto; 1 colher de café de açúcar; Óleo de canola.",
+    "modo_preparo": "Hidrate o shiitake em água morna por 20 minutos (trocando a água na metade). Corte em fatias e junte o shoyu. Refogue o alho e a cebola em óleo de canola até dourar. Adicione os tomates em cubos, o molho de tomate, o sal, o açúcar e 20 colheres de água. Cozinhe em fogo baixo por 3 minutos. Adicione todos os cogumelos e as especiarias. Cozinhe por 10 minutos em fogo baixo. Desligue o fogo, misture o creme de soja e sirva."
+  },
+  "111": {
+    "titulo": "Carne de jaca",
+    "ingredientes": "1 jaca verde pequena; 2 cebolas médias picadas; 2 tomates grandes picados; Cheiro-verde picado a gosto; Azeitonas picadas (100 g); Cogumelos champignon picados (150 g); 1 litro de água; Azeite a gosto; 2 dentes de alho amassados; Tempero de legumes.",
+    "modo_preparo": "Corte a jaca verde em pedaços médios, cubra com água na panela de pressão e cozinhe por 35 minutos após pegar pressão. Deixe a pressão sair, retire a casca e o talo central. Desfie a polpa com um garfo (descarte as sementes). Em uma panela, doure o alho e a cebola no azeite com sal. Adicione a carne de jaca, o tomate, a azeitona, o champignon e os temperos. Misture bem até ficar homogêneo e finalize com o cheiro-verde."
+  },
+  "112": {
+    "titulo": "Nuggets de milho vegano",
+    "ingredientes": "1/2 cebola ralada; 1/2 lata de água (medida da lata de milho); 1 lata de milho; 2 dentes de alho; 4 colheres de sopa de azeite; 8 colheres de sopa de farinha de trigo; Farinha de rosca para empanar; Sal e temperos a gosto.",
+    "modo_preparo": "Doure a cebola e o alho no azeite. Bata o milho com a água no liquidificador e junte à panela com temperos e sal até ferver. Adicione a farinha de trigo de uma vez e mexer até homogeneizar e a massa desgrudar do fundo. Deixe esfriar completamente. Modele no formato de nuggets, empane na farinha de rosca e asse a 180 °C por 1 hora (virando na metade do tempo) ou frite em óleo quente."
+  },
+  "113": {
+    "titulo": "Quibe de assadeira vegano (berinjela)",
+    "ingredientes": "1 berinjela grande ou 3 pequenas; 1 xícara de trigo para quibe; 1 e 1/2 xícara de água fervente; 1 colher de sopa de tahine (opcional); 1/2 xícara de cebola picada; 3 dentes de alho grandes com a casca; Suco de 1 limão; Salsinha, hortelã e sal a gosto.",
+    "modo_preparo": "Corte as berinjelas ao meio, faça cortes cruzados e deixe de molho em água com vinagre por 15 minutos. Leve ao forno com os alhos com casca e azeite por 30 minutos. Hidrate o trigo na água fervente por 15 minutos. Raspe a polpa da berinjela assada e misture com os alhos descascados, temperos e o trigo. Espalhe em uma assadeira e asse por 30 a 40 minutos até dourar."
+  },
+  "114": {
+    "titulo": "Fricassê vegano",
+    "ingredientes": "2 inhames cozidos e descascados; 1 vidro de leite de coco (200 ml); 200 ml de água; 1 lata de milho verde em conserva; 1 colher de sopa de suco de limão; 300 g de proteína de soja hidratada; 1 cebola grande picada; Azeite; Azeitonas picadas a gosto; 2 tomates picados; Batata-palha; Cúrcuma, páprica, sal, cebolinha e salsinha a gosto.",
+    "modo_preparo": "Para o creme, bata no liquidificador os inhames quentes, o leite de coco, a água, o limão, o milho e o sal. Reserve. Esprema a soja para tirar a água. Refogue a cebola no azeite, junte as azeitonas e os tomates por alguns minutos. Adicione a soja e os temperos. Despeje o creme e deixe encorpar. Transfira para um refratário, cubra com batata-palha e leve ao forno até borbulhar."
+  },
+  "115": {
+    "titulo": "Cachorro-quente vegano",
+    "ingredientes": "1 lata de salsicha vegetal; 1/2 cebola picadinha; 2 dentes de alho espremidos; 1 tomate picadinho; 1/4 de pimentão verde picadinho; 2 a 3 colheres de sopa de extrato de tomate; Orégano e sal a gosto; Azeitonas picadinhas; Azeite para refogar.",
+    "modo_preparo": "Doure a cebola e o alho no azeite. Adicione a salsicha picada ou inteira e refogue. Adicione o tomate, o pimentão e o sal. Incorpore aos poucos o extrato de tomate e um pouco de água. Adicione o orégano e as azeitonas. Deixe ferver em fogo baixo para apurar o molho e sirva no pão com os acompanhamentos desejados."
+  },
+  "116": {
+    "titulo": "Lasanha vegana de berinjela",
+    "ingredientes": "1 caixinha de massa de lasanha sem ovos; 2 caixinhas de molho de tomate (1 kg); 1 cebola pequena; 4 dentes de alho; 1 abobrinha italiana pequena; 2 berinjelas pequenas; 3 colheres de sopa de óleo; 3 colheres de sopa de sal; 1 colher de café de curry; 1 colher de café de páprica picante; 2 colheres de sobremesa de orégano; 1 maço de cheiro-verdade; 1 colher de café de açúcar; 2 palmitos; 10 castanhas-do-pará.",
+    "modo_preparo": "Refogue a cebola e o alho no óleo. Adicione a abobrinha ralada, os temperos (sal, curry, páprica, orégano) e o molho de tomate com o açúcar. Ferva, desligue e adicione o palmito e o cheiro-verdade. Frite levemente as rodelas de berinjela em um fio de óleo. Em uma forma, alterne camadas de molho, massa e berinjela. Cubra com castanhas-do-pará trituradas e asse a 230 °C por 40 minutos."
+  },
+  "117": {
+    "titulo": "Sopa de fubá vegana",
+    "ingredientes": "1 xícara de fubá; 1 liter de água; 2 dentes de alho picadinhos; Pimenta-do-reino; Sal a gosto; 2 folhas de couve picadinhas; Temperos desidratados a gosto (cenoura e tomate); Azeite.",
+    "modo_preparo": "Em uma panela grande, refogue o alho no azeite. Em uma tigela à parte, dissolva o fubá em parte da água fria para não empelotar. Despeje o fubá dissolvido na panela, junte os temperos e o restante da água, mexendo sempre. Adicione a couve, ajuste o sal e continue mexendo no fogo até levantar fervura com bolhas grandes."
+  },
+  "118": {
+    "titulo": "Curry de legumes",
+    "ingredientes": "2 colheres de sopa de azeite; 1/2 pimentão picado; 1 cenoura grande picada em meia-lua; 2 dentes de alho amassados; Sal a gosto; 2 colheres de chá de curry; 1 colher de chá de páprica; 1/2 xícara de água quente; 200 ml de leite de coco; 200 g de brócolis cozido; 200 g de couve-flor cozida; Cheiro-verde a gosto.",
+    "modo_preparo": "Aqueça o azeite e refogue a cebola, o pimentão e a cenoura até a cebola murchar. Adicione o alho, o sal e refogue por 1 minuto. Junte o curry e a páprica até dourar. Adicione a água quente raspando o fundo da panela. Despeje o leite de coco, ajuste o sal, adicione o brócolis, a couve-flor e o cheiro-verde, misturando bem até incorporar."
+  },
+  "119": {
+    "titulo": "Salpicão vegano",
+    "ingredientes": "1 cenoura ralada sem casca; 1 inhame médio; 1/2 xícara de uva-passa; 1/2 maçã ralada; 1/2 lata de milho-verde; 1/2 lata de ervilha em conserva; 1/4 xícara de água; 1 dente de alho; 1 colher de café de páprica defumada; Sal, coentro e cebolinha a gosto; Batata-palha para finalizar.",
+    "modo_preparo": "Cozinhe o inhame e retire a casca. Bata no liquidificador o inhame com o alho, o sal e a água até obter um creme liso e reserve. Em uma tigela, misture a cenoura, as uvas-passas, a maçã, o milho, a ervilha e os temperos verdes. Incorpore a maionese de inhame reservada. Transfira para uma travessa, decore com batata-palha e leve à geladeira para servir gelado."
+  },
+  "120": {
+    "titulo": "Faláfel",
+    "ingredientes": "1 e 1/4 de xícara de grão-de-bico seco (250 g); 1/2 cebola; 1/4 xícara de salsinha; 1/4 xícara de coentro; 1 dente de alho; 1 colher de chá de cominho; 1 colher de chá de pimenta síria; 1/4 colher de chá de canela; 1 colher de chá de sementes de coentro; 1 e 1/2 colher de chá de sal; 1/2 colher de chá de bicarbonato de sódio; 1 e 1/2 colher de sopa de farinha de trigo; Noz-moscada, pimenta-do-reino e 500 ml de óleo para fritar.",
+    "modo_preparo": "Deixe o grão-de-bico de molho por 24 horas, escorra e seque muito bem. No processador, triture a cebola, o alho, a salsinha e o coentro. Adicione metade do grão-de-bico com o sal e as especiarias até formar uma pasta. Junte a outra metade e processe levemente para deixar pedacinhos. Transfira para uma tigela, adicione o bicarbonato e a farinha (se necessário para dar liga). Modele os bolinhos com colheres e frite no óleo quente por 1 minuto até dourar."
+  },
+  "121": {
+    "titulo": "Bolonhesa de lentilha",
+    "ingredientes": "1 xícara de lentilhas; 2 xícaras de água para o cozimento; 1 fio de azeite; 1 cenoura grande; 1 cebola média; 4 dentes de alho; 1/2 colher de sopa de ervas finas; 1/2 colher de sopa de páprica defumada; 1 colher de sopa de sal; 400 g de tomate pelado; 400 g de molho de tomate; 1 e 1/2 xícara de água para o molho; 10 folhas de manjericão.",
+    "modo_preparo": "Deixe a lentilha de molho por 12 horas. Escorra, cozinhe nas 2 xícaras de água em fogo médio por 5 minutos após ferver e escorra novamente. Em outra panela com azeite, refogue a cebola e a cenoura em cubinhos por 4 minutos, junte o alho por 1 minuto. Adicione a lentilha, as ervas finas, a páprica e o sal. Incorpore os tomates pelados amassados, o molho de tomate e a água. Cozinhe com o manjericão por 10 minutos mexendo às vezes."
+  },
+  "122": {
+    "titulo": "Bolo de carne sem carne",
+    "ingredientes": "1 colher de sopa de azeite de oliva; 1 cebola grande em fatias; 190 g de lentilha; 2 folhas de louro; 5 cravos; 3 xícaras de água; 2 colheres de sopa de ketchup; 3 colheres de quinoa em flocos; 2 colheres de sopa de semente de chia; 1 colher de chá de sal; Chimichurri, páprica doce e tomilho a gosto.",
+    "modo_preparo": "Cozinhe a cebola no azeite em panela tampada por 2 minutos. Adicione a lentilha, o louro, os cravos e a água. Cozinhe em fogo baixo semitampado por 35 minutos até secar. Retire o louro e os cravos, transfira para uma tigela e amasse bem as lentilhas. Misture a quinoa, a chia, o sal e as especiarias. Forre uma forma de bolo inglês com o ketchup, pressione a massa firmemente por cima e asse a 180 °C por 15 minutos antes de desenformar."
+  },
+  "123": {
+    "titulo": "Kafta vegana",
+    "ingredientes": "2 xícaras de proteína de soja texturizada miúda; 3 xícaras de água; 1 cebola média ralada; 1/2 xícara de azeite; 1 colher de sopa de orégano; 1 colher de sopa de hortelã desidratada; 1 colher de sopa de vinagre branco; Sal e pimenta a gosto; 2 xícaras de farinha de trigo; Palitos grandes para kafta.",
+    "modo_preparo": "Hidrate a PTS na água e depois processe no liquidificador para triturar. Esprema muito bem em uma peneira fina para tirar o líquido. Misture em uma tigela com a cebola, o azeite, o orégano, a hortelã, o vinagre, o sal e a pimenta. Deixe na geladeira por 3 horas sob plástico filme. Adicione a farinha aos poucos até dar liga. Modele as kaftas nos palitos de madeira, disponha em uma assadeira untada com azeite e asse a 200 °C por 20 minutos (vire e asse por mais 15 minutos)."
+  },
+  "124": {
+    "titulo": "Farofa de proteína de soja",
+    "ingredientes": "1/2 xícara de óleo; 1 xícara de proteína de soja texturizada; 3 colheres de sopa de creme de cebola; 2 e 1/2 xícaras de farinha de mandioca biju.",
+    "modo_preparo": "Aqueça o óleo em uma panela em fogo baixo. Adicione a proteína de soja texturizada crua e deixe fritar por cerca de 30 segundos, mexendo sempre. Adicione o creme de cebola em pó e continue misturando bem. Assim que estiver quase homogêneo, desligue o fogo do fogão, adicione a farinha de mandioca biju, misture bem e sirva."
+  },
+  "125": {
+    "titulo": "Feijoada vegana",
+    "ingredientes": "120 g de tofu frescal; 120 g de tofu defumado; Óleo a gosto; 1 cebola grande em cubinhos; 3 a 4 dentes de alho pipados; 1 xícara de feijão-preto (200 g) hidratado por 12 horas; 1 e 1/2 litro de água; 1/2 chuchu picado rústico; 1 cenoura pequena em rodelas; 1 batata-doce pequena em rodelas; 1 laranja inteira; 1/2 pimenta-dedo-de-moça.",
+    "modo_preparo": "Corte o tofu defumado em cubinhos (reserve as cascas) e o tofu frescal em cubos maiores. Frite o tofu frescal e as cascas do defumado em óleo e reserve. Em uma panela grande, refogue a cebola e o alho com o tofu defumado até dourar. Adicione o feijão, refogue por 1 minuto, cubra com água e cozinhe por 40 minutos com a laranja em rodelas e a pimenta. Grelhe os legumes em uma frigideira à parte. Quando o feijão amaciar, retire a laranja, adicione os legumes grelhados e o tofu frito, fervendo por mais 10 minutos."
+  },
+  "126": {
+    "titulo": "Masala picante de grão-de-bico",
+    "ingredientes": "1 colher de chá de óleo de coco; 1 e 1/2 colher de chá de sementes de cominho; 1 cebola branca grande cortada; Pedaço de gengibre fresco ralado a gosto; 1 chili ou pimentão verde picado; 2 dentes de alho amassados; 2 colheres de chá de garam masala ou pó de curry; ½ colher de chá de açafrão; 2 colheres de sopa de pasta de curry; 800 g de tomate picado enlatado; 800 g de grão-de-bico enlatado, cozido e escorrido; Coentro fresco para servir.",
+    "modo_preparo": "Aqueça o óleo de coco em uma panela grande em fogo médio. Adicione as sementes de cominho e frite por 1 minuto até perfumar; em seguida, adicione a cebola e frite por mais 7 a 10 minutos ou até amolecer. Coloque o gengibre, o chili ou pimentão verde e o alho na panela e cozinhe por 2 a 3 minutos. Adicione as especiarias e a pasta de curry e cozinhe por mais 2 minutos ou até perfumar. Adicione os tomates e leve para ferver; em seguida, adicione o grão-de-bico e cozinhe por mais 20 minutos ou até engrossar. Tempere a gosto. Sirva com arroz integral ou batata-doce assada, ou apenas com um enfeite de coentro."
+  },
+  "127": {
+    "titulo": "Ceviche de lentilha",
+    "ingredientes": "4 xícaras de chá de lentilhas cozidas e escorridas; 1/2 xícara de chá de cebola roxa bem picada; 1/3 xícara de chá de coentro bem picado; 1 xícara de chá de tomate de sua preferência (cereja, italiano ou outro); Suco de 2 limões (ajustar a gosto); Sal a gosto; 1 fio de azeite (opcional); Abacate e limão para servir.",
+    "modo_preparo": "Escorra bem as lentilhas e coloque em uma tigela, adicione os outros ingredientes e misture bem. Sirva com abacate, limão e pimenta, se desejar."
+  },
+  "128": {
+    "titulo": "Ensopado de feijão, amendoim e salsão",
+    "ingredientes": "1 cebola média descascada e finamente picada; 1 colher de sopa de azeite de oliva; 1 xícara de chá cheia de salsão picado; 300 g de grão-de-bico cozido; 300 g de feijão vermelho cozido; 1 e 1/4 xícara de chá de caldo de legumes; 2 dentes de alho esmagados; 1 colher de sopa de extrato de tomate; 2 colheres de sopa de vinho tinto (opcional); ½ colher de chá de mix de ervas secas; 2 a 3 colheres de sopa de pasta de amendoim; 2 colheres de sopa de salsinha picada.",
+    "modo_preparo": "Misture a cebola e o óleo em uma vasilha para micro-ondas e cozinhe por 4 minutos. Adicione o salsão, o feijão, o caldo de legumes, o alho, o extrato de tomate, o vinho tinto (se usar) e a mistura de ervas secas. Misture bem. Cubra com plástico filme próprio para micro-ondas e perfure o centro. Cozinhe por 6 minutos. Retire o filme e misture a pasta de amendoim até o molho engrossar. Acrescente a salsinha picada. Deixe descansar por mais um ou dois minutos antes de servir."
+  },
+  "129": {
+    "titulo": "Almôndegas de proteína de soja",
+    "ingredientes": "2 xícaras de proteína de soja graúda ou miúda; Temperos a gosto: salsinha, sal, alho, cebola, pimentão; Farinha para dar liga (trigo, rosca, mandioca, amido de milho ou flocos de aveia).",
+    "modo_preparo": "Basta deixar a proteína de soja de molho em água morna por 1 minuto e espremer num coador de pano ou voal assim que estiver macia. Depois de espremida, coloque numa bacia e adicione temperos a gosto: alho espremido, cebola ralada, sal, pimenta-do-reino, orégano, salsinha picada. Misture bem e dê liga com qualquer farinha: trigo, rosca, mandioca, amido de milho ou flocos de aveia. Não despeje muita farinha, tente modelar uma bolinha apertando na palma da mão e molhando a mão com água. Se ainda quebrar, polvilhe mais um pouquinho de farinha, mexa bem e tente novamente apertando a bolinha. Você pode assar, fritar, refogar em pouco óleo ou utilizar air fryer; qualquer jeito serve para preparar suas almôndegas."
+  },
+  "130": {
+    "titulo": "Bifes à milanesa",
+    "ingredientes": "2 xícaras de proteína de soja miúda; Temperos a gosto: sal, alho, cebola, orégano, curry, limão, pimenta-do-reino; Farinha de mandioca para a massa; 1/2 xícara de farinha de trigo (para o creme); Água; Pão batido no liquidificador ou farinha de rosca para empanar.",
+    "modo_preparo": "Coloque a proteína de soja na água morna. Após 5 minutos, esprema bem na mão ou em um coador de voal ou pano limpo. Numa bacia, misture a proteína de soja com os temperos. Polvilhe uma colher de farinha de mandioca, misturando bem. Tente modelar em formato de bifes, apertando com as mãos (molhar as palmas das mãos ajuda a modelar). Se não der, polvilhe mais 1 colher de farinha de mandioca, misture novamente e tente de novo. Reserve. Para o creme: acrescente água à farinha de trigo aos pouquinhos até virar um creme, vá batendo com um garfo (pode colocar temperos nessa hora). Molhe os bifes nesse creme, passe no pão batido no liquidificador ou farinha de rosca e depois é só fritar!"
+  },
+  "131": {
+    "titulo": "Coxinha",
+    "ingredientes": "2 kg de batata, mandioca, batata-doce ou outro tubérculo cozido de sua preferência; 1 fio de óleo para ajudar a dar liga; Sal a gosto; Farinha de mandioca ou amido de milho; Recheio: 1 vidro ou lata de palmito escorrido; Pimenta-do-reino, salsinha picada, alho moído, cebola picada; Amido de milho; Água.",
+    "modo_preparo": "Cozinhe o tubérculo até ficar macio (aproximadamente 20 minutos). Misture o tubérculo cozido com sal e um pouquinho de óleo. Em seguida, vá adicionando farinha de mandioca até a massa estar moldável. Para o recheio: refogue os temperos em uma colher de óleo até dourar a cebola, junte o palmito picadinho. Misture 2 colheres de amido de milho em 1 copo com água e despeje no refogado até adquirir consistência cremosa. Modele as coxinhas colocando o recheio no centro. Se a farinha estiver grudando bem, passe direto na farinha de mandioca e frite; caso contrário, passe num creme ralo feito de amido de milho e água antes de empanar na farinha de mandioca e fritar."
+  },
+  "132": {
+    "titulo": "Samosas",
+    "ingredientes": "500 g de farinha integral; 2 pacotinhos ou sachês de fermento biológico seco; 300 ml de água em temperatura ambiente; 100 ml de óleo; Sal a gosto; Recheio a gosto (palmito, brócolis, batata cozida com cebolinha, berinjela); Gergelim ou aveia para decorar (opcional).",
+    "modo_preparo": "Misture a farinha, o fermento, a água, o óleo e o sal numa bacia. Cubra com um pano e espere crescer. Enquanto isso, prepare o recheio de sua preferência. Na hora de modelar em formato de esfirras ou pastéis, pode-se grudar gergelim ou aveia na massa. Feche muito bem as pontas com um garfo. Asse em forno quente até dourar, por aproximadamente 25 minutos."
+  },
+  "133": {
+    "titulo": "Salada de tabule vegetariana",
+    "ingredientes": "1 e 1/4 xícara de trigo para quibe cru; 2 xícaras de água fervendo; 1/4 xícara de pesto preparado; 3 colheres de sopa de suco de limão fresco; 2 xícaras de tomates-cereja picados; 3/4 xícara de queijo feta vegano esfarelado; 1 lata (400 g) de grão-de-bico escorrido; 1/3 xícara de cebolinha fatiada fina; 2 colheres de sopa de salsa fresca picada; 1/4 colher de chá de pimenta-do-reino moída na hora; 2 xícaras de edamame sem casca; 4 pães sírios cortados ao meio.",
+    "modo_preparo": "Combine o trigo e a água fervente em uma tigela grande. Cubra e deixe descansar por 30 minutos. Drene. Combine o pesto e o suco de limão, mexendo com um batedor. Combine o trigo, a mistura de pesto, os tomates, o feta, o grão-de-bico, a cebolinha, a salsa, a pimenta e o edamame em uma tigela grande; misture delicadamente para combinar. Sirva com as metades de pão sírio."
+  },
+  "134": {
+    "titulo": "Salada de tabule de quinoa",
+    "ingredientes": "1 xícara de quinoa; 2 xícaras de água ou caldo de legumes; 1 grande ou dois tomates médios picados pequenos; 1 pepino picado (opcional); 4 cebolinhas picadas; 2 dentes de alho picados; 2 a 3 colheres de sopa de hortelã fresca picada; 1/2 xícara de salsa fresca picada; 1/4 xícara de azeite; 1/4 xícara de suco de limão fresco; 1/2 colher de chá de sal.",
+    "modo_preparo": "Em uma panela média, cubra a quinoa em água ou caldo de legumes e leve para ferver. Reduza o fogo para ferver lentamente, cubra e deixe cozinhar por cerca de 15 minutos até absorver a maior parte do líquido. Solte com um garfo e reserve. Em uma tigela grande, misture os tomates, os pepinos, a cebolinha, o alho, a hortelã e a salsa. Assim que a quinoa esfriar, adicione-a à mistura junto com o azeite de oliva, o suco de limão e o sal, mexendo delicadamente. Refrigere por pelo menos uma hora antes de servir. Dê um aperto extra de limão e uma pitada de sal logo antes de servir."
+  },
+  "135": {
+    "titulo": "Salada de feijão-branco",
+    "ingredientes": "2 latas de feijão-branco escorridos e enxaguados; 3 dentes de alho picados; 1 cebola-roxa picada; 1/2 xícara de salsa fresca picada; 2 colheres de sopa de azeite; 2 tomates grandes em cubos; 1/3 xícara de azeitonas pretas fatiadas; 2 colheres de sopa de vinagre de vinho tinto; Suco de limão fresco de 1/2 limão; Sal e pimenta a gosto.",
+    "modo_preparo": "Primeiro, escorra e lave seus feijões-brancos enlatados. Em seguida, em fogo baixo, misture o feijão escorrido, o alho, a cebola e a salsa no azeite. Aqueça por apenas um minuto ou até perfumar (apenas para suavizar e combinar os sabores). Retire do fogo e coloque em uma tigela grande. Adicione os tomates, as azeitonas pretas, o vinagre e o suco de limão, misturando delicadamente para incorporar todos os ingredientes. Sirva quente ou gelada."
+  },
+  "136": {
+    "titulo": "Chili: feijão-preto e batata-doce",
+    "ingredientes": "2 dentes de alho picados; 1 cebola pequena em cubos; 2 batatas-doces pequenas descascadas e picadas; 2 cenouras médias fatiadas; 1/2 pimentão vermelho picado (opcional); 2 colheres de sopa de azeite; 1 lata de feijão-preto; 1 lata de tomate picado ou molho de tomate; 1/2 xícara de água ou caldo de legumes; 1 colher de sopa de pimenta em pó; 1 colher de chá de cominho; 1/2 colher de chá de pimenta-de-caiena; 1/2 colher de chá de alho em pó; 1/2 colher de chá de sal; 1/4 colher de chá de pimenta-do-reino.",
+    "modo_preparo": "Refogue a cebola e o alho no azeite por um minuto ou dois. Adicione a batata-doce, a cenoura e o pimentão até que a cebola esteja macia, por cerca de 5 a 6 minutos. Reduza o fogo para médio-baixo e adicione todos os ingredientes restantes, mexendo bem. Deixe o chili ferver parcialmente coberto, mexendo ocasionalmente por cerca de 20 a 25 minutos, até que a batata-doce e os legumes estejam macios."
+  },
+  "137": {
+    "titulo": "Sopa de lentilha",
+    "ingredientes": "1 colher de chá de óleo vegetal (canola, girassol ou outro); 1 cebola picada; 1 cenoura fatiada; 4 xícaras de caldo de legumes; 1 xícara de lentilhas secas marrons comuns (não use lentilhas vermelhas); 1/4 colher de chá de tomilho seco; 2 folhas de louro; Uma pitada de sal e pimenta a gosto; 2 colheres de chá de suco de limão (opcional).",
+    "modo_preparo": "Em uma panela grande, refogue a cebola e a cenoura no óleo vegetal por 3 a 5 minutos até que as cebolas fiquem translúcidas. Acrescente o caldo de legumes, as lentilhas, o tomilho, as folhas de louro, o sal e a pimenta. Reduza o fogo para ferver em fogo baixo, cubra e cozinhe por cerca de 45 minutos até as lentilhas ficarem macias. Retire as folhas de louro e misture o suco de limão antes de servir. Ajuste os temperos se necessário."
+  },
+  "138": {
+    "titulo": "Caçarola mexicana vegetariana",
+    "ingredientes": "2 xícaras de cebola picada; 1 e 1/2 xícara de pimentão vermelho picado; 2 dentes de alho picados; 3/4 de xícara de salsa; 2 colheres de chá de cominho; 2 latas de feijão-preto escorrido; 12 tortilhas de milho; 2 xícaras de queijo vegano ralado; Acompanhamentos opcionais: 3 tomates picados, 1/2 xícara de creme azedo vegano, 1/2 xícara de azeitonas pretas fatiadas.",
+    "modo_preparo": "Preaqueça o forno a 180 °C (350 °F). Combine a cebola, o alho, a salsa, o cominho e o feijão-preto em uma frigideira grande e leve para ferver em fogo médio. Cozinhe mexendo frequentemente por 3 minutos. Arrume 6 tortilhas no fundo de uma assadeira, sobrepondo-as. Espalhe metade da mistura de feijão sobre elas e polvilhe metade do queijo. Repita o processo de camadas com o restante das tortilhas, do feijão e do queijo. Cubra com papel-alumínio e asse por 15 minutos. Remova o papel-alumínio cuidadosamente e decore com tomates, creme azedo vegano e azeitonas antes de servir."
+  },
+  "139": {
+    "titulo": "Chuchu recheado",
+    "ingredientes": "4 chuchus; 1 xícara de coentro ou cheiro-verde fresco; 1 colher de chá de sal; 3 dentes de alho; 1 fio de azeite de oliva; Recheio: 3 tomates secos; 2 cogumelos frescos.",
+    "modo_preparo": "Descasque e lave os chuchus. Corte-os pela metade longitudinalmente e retire a parte do meio, escavando um pouco para acomodar o recheio. Prepare o molho verde triturando o coentro com o sal, o alho e um generoso fio de azeite (no liquidificador ou processador). Cubra os chuchus com este molho e reserve por 30 minutos. Pique finamente os tomates secos e os cogumelos e recheie os chuchus. Junte as duas metades recheadas de cada chuchu e embrulhe-as muito bem com plástico-filme, mantendo-as unidas. Leve ao fogo uma panela com água fervente até a metade e cozinhe os chuchus embrulhados por 20 a 25 minutos até ficarem macios. Desembrulhe e sirva."
+  },
+  "140": {
+    "titulo": "Guisado de legumes",
+    "ingredientes": "1 couve-flor pequena; 1 cebola pequena; 1 pimentão vermelho pequeno; 3 dentes de alho; 3 batatas médias cozidas; 1 xícara de ervilhas congeladas; 1 pedaço pequeno de gengibre fresco; 1 pedaço pequeno de açafrão-da-terra (cúrcuma); 20 tomates-cereja; 1 colher de chá de cominho em grão; 1 fio de azeite de oliva ou óleo vegetal; ½ colher de chá de sementes de coentro moídas; 1 colher de chá de sal; 1 pitada de pimenta-do-reino.",
+    "modo_preparo": "Corte a cebola e as batatas cozidas em pedaços médios, o pimentão em cubinhos e separe a couve-flor em floretes. Corte finamente o alho, o gengibre e a cúrcuma. Corte os tomates-cereja ao meio e descongele as ervilhas em água. Aqueça uma panela com óleo e adicione as sementes de cominho por 2 minutos. Em seguida, adicione o alho e metade da cebola, do pimentão, do gengibre e da cúrcuma em fogo médio-baixo. No liquidificador, bata a outra metade da cebola, pimentão, gengibre e cúrcuma com 10 tomates-cereja, 1 colher de chá de sal e uma pitada de pimenta até obter um molho liso e reserve. Adicione as batatas, a couve-flor e as sementes de coentro na panela, cozinhando por 2 minutos. Adicione as ervilhas escorridas, os outros 10 tomates e o molho do liquidificador. Cozinhe até a couve-flor amaciar."
+  },
+  "141": {
+    "titulo": "Escondidinho vegano de batata",
+    "ingredientes": "4 batatas; 1 lata de molho de tomate; 1 cebola; 1 berinjela; 100 g de queijo vegano ralado; Pimenta a gosto; Sal a gosto; Orégano a gosto; 1 xícara de azeite.",
+    "modo_preparo": "Lave, descasque e corte as batatas em fatias pequenas para cozinhar. Corte a berinjela em cubos e a cebola em pedaços pequenos. Refogue a cebola no azeite até dourar, acrescente a berinjela e cozinhe por 10 minutos em fogo médio até amolecer. Tempere com sal e pimenta. Adicione o molho de tomate, cozinhe por 2 a 3 minutos e desligue, transferindo o recheio para uma forma refratária. Escorra as batatas cozidas e amasse-as com um garfo, adicionando azeite até obter um purê cremoso. Cubra o recheio com este purê, salpique o queijo ralado e leve ao forno alto (200 ºC) por 15 minutos para gratinar."
+  },
+  "142": {
+    "titulo": "Rocambole vegano",
+    "ingredientes": "250 gramas de repolho; 150 gramas de cogumelos champignon; ½ berinjela; 1 cebola; 2 dentes de alho; 1 punhado de azeitonas; ½ colher de chá de noz-moscada; 1 colher de café de páprica doce ou ardida; 1 colher de sopa de salsinha fresca ou desidratada; 1 pitada de pimenta-do-reino; 1 colher de café de sal; 1 fio de azeite de oliva; 5 colheres de sopa de amido de milho; Cobertura: 1 colher de chá de mostarda amarela, 5 colheres de sopa de polpa de tomate, 2 colheres de sopa de xarope de bordo; Base: 1 pacote de massa filo (phyllo) vegana.",
+    "modo_preparo": "Refogue a cebola e o alho no azeite. Acrescente os legumes picados (champignon, repolho, berinjela e azeitona). Tempere com noz-moscada, páprica, salsinha, pimenta e sal. Cozinhe por 5 minutos e polvilhe o amido de milho para dar consistência. Abra a massa filo, coloque o recheio em uma das extremidades de forma compacta e enrole como um rocambole, dobrando as laterais. Misture a polpa de tomate, o xarope de bordo e a mostarda e pincele sobre a massa. Asse em forno preaquecido a 180 ºC por 30 minutos até dourar."
+  },
+  "143": {
+    "titulo": "Coxinha vegana de jaca",
+    "ingredientes": "Massa: 2 xícaras de farinha de trigo; 1 xícara de farinha de mandioca (para empanar); 2 xícaras de água ou caldo de legumes; 4 colheres de sopa de azeite; 1 colher de chá de sal; 1 pitada de orégano (opcional); Recheio: 1 jaca verde (aprox. 1 kg); 1 cebola picada; 1 tomate maduro grande picado; 4 colheres de sopa de extrato de tomate; 2 dentes de alho picados; Cebolinha ou salsinha picada; Sal, pimenta-do-reino e óleo para fritar.",
+    "modo_preparo": "Cozinhe a jaca na pressão coberta com água e um fio de óleo por 1 hora. Descarte a casca/miolo e desfie o interior. Refogue o alho e a cebola no azeite, junte o tomate e a jaca desfiada, temperando com sal e pimenta por 2 a 3 minutos. Adicione o extrato de tomate e o cheiro-verde e reserve. Para a massa: ferva a água, o azeite e o sal. Adicione a farinha de trigo de uma só vez com o orégano, mexendo até desgrudar e virar uma bola. Sove a massa morna por 5 a 10 minutos. Modele as coxinhas com o recheio, passe por água, empane na farinha de mandioca e frite em óleo quente."
+  },
+  "144": {
+    "titulo": "Cogumelos ao molho cremoso",
+    "ingredientes": "8 unidades de cogumelos ostra ou champignon; ¼ unidade de pimenta-dedo-de-moça; ½ unidade de cebola picada; ¼ unidade de berinjela picada; 100 ml de leite de soja; 200 ml de água; 1 colher de chá de sal (ou a gosto); Óleo vegetal.",
+    "modo_preparo": "Pique a pimenta, a cebola e a berinjela em cubinhos. Limpe os cogumelos inteiros e corte as pontas duras (pique alguns para o molho). Refogue a cebola, pimenta, berinjela e os cogumelos picados no óleo até amaciar. Adicione o leite de soja e cozinhe por 10 minutos em fogo baixo. Junte a água e cozinhe tampado por 5 minutos. Preaqueça o forno a 200 °C. Disponha os cogumelos inteiros em um refratário com a cavidade para cima. Triture o molho refogado no liquidificador até ficar cremoso, ajuste o sal e despeje sobre os cogumelos. Asse a 180 °C por 30 minutos."
+  },
+  "145": {
+    "titulo": "Sanduíche colorido",
+    "ingredientes": "1 xícara de chá de espinafre cozido; 1 xícara de chá de beterraba cozida; 1 xícara de chá de cenoura cozida; 1 e 1/2 xícara de chá de água fervente (dividida); 6 colheres de sopa de azeite (divididas); 1 cebola picada (dividida); 3 dentes de alho esmagados (divididos); Sal rosa e pimenta-do-reino a gosto; Pão de forma integral vegano.",
+    "modo_preparo": "Pasta de espinafre: bata o espinafre com 1/2 xícara de água fervente. Refogue 1/3 da cebola e do alho em 2 colheres de azeite, junte a pasta, tempere com sal e pimenta e cozinhe por alguns minutos. Pasta de beterraba: repita o processo batendo a beterraba com 1/2 xícara de água fervente e refogando com 1/3 da cebola/alho em 2 colheres de azeite. Pasta de cenoura: repita o processo com a cenoura, o restante da água, cebola, alho e azeite. Montagem: em uma fatia de pão passe a pasta de espinafre, cubra com outra fatia, passe a pasta de beterraba, coloque mais um pão, passe a pasta de cenoura e feche com a última fatia. Corte na diagonal."
+  },
+  "146": {
+    "titulo": "Pão low carb vegano",
+    "ingredientes": "2 xícaras de chá de farinha de amêndoas (200 g); 1/2 colher de chá de sal; 3 pitadas de açafrão em pó; 2 colheres de sopa de psyllium (fibra vegetal); 1 xícara de chá de água (240 ml).",
+    "modo_preparo": "Em uma tigela, misture bem os ingredientes secos: farinha de amêndoas, sal, açafrão e o psyllium. Ferva a água e despeje-a quente sobre a mistura seca. Mexe até obter uma massa homogênea e consistente e deixe descansar por 5 minutos. Divida em 4 partes. Abra cada parte entre duas folhas de papel vegetal com um rolo até formar discos de 0,5 cm. Cozinhe cada disco em uma frigideira antiaderente em fogo baixo, tampado, por 2 a 3 minutos de cada lado."
+  },
+  "147": {
+    "titulo": "Tabule de quinoa com pepino e hortelã",
+    "ingredientes": "1 xícara de quinoa em grãos; 1 pepino médio picado; 1/2 xícara de tomates-cereja cortados ao meio; 1/2 xícara de folhas de hortelã frescas picadas; 1/4 xícara de cebola-roxa picada; 1 limão espremido; 2 colheres de sopa de azeite de oliva; Sal e pimenta-do-reino a gosto.",
+    "modo_preparo": "Cozinhe a quinoa conforme as instruções da embalagem e deixe esfriar completamente. Em uma tigela, junte a quinoa fria, o pepino, o tomate, a hortelã e a cebola-roxa. Em outro recipiente, emulsione o suco de limão, o azeite, o sal e a pimenta-do-reino. Despeje o molho sobre o tabule e misture bem. Deixe na geladeira por pelo menos 15 minutos antes de servir."
+  },
+  "148": {
+    "titulo": "Tacos de jaca com molho barbecue",
+    "ingredientes": "1 lata de jaca em conserva; 2 colheres de sopa de azeite de oliva; 1 cebola picada; 2 dentes de alho picados; 1/2 pimentão vermelho picado; 1/2 pimentão amarelo picado; 1/2 xícara de molho barbecue; 1/4 xícara de água; Sal e pimenta a gosto; 8 tortilhas de milho; Coentro picado.",
+    "modo_preparo": "Escorra a jaca e desfie em pedaços pequenos. Em uma panela, aqueça o azeite e refogue a cebola e o alho até amaciar. Adicione os pimentões e cozinhe por mais alguns minutos. Junte a jaca desfiada, o molho barbecue, a água, o sal e a pimenta, deixando cozinhar por cerca de 10 minutos, mexendo ocasionalmente. Aqueça as tortilhas de milho em uma frigideira até ficarem levemente crocantes. Monte os tacos com a jaca e finalize com coentro picado."
+  },
+  "149": {
+    "titulo": "Sopa minestrone com pesto vegano",
+    "ingredientes": "2 colheres de sopa de azeite; 1 cebola picada; 2 dentes de alho picados; 1 cenoura picada; 1 talo de salsão picado; 1 abobrinha picada; 1 xícara de feijão-branco cozido; 1 lata de tomates pelados; 1 litro de caldo de legumes; 1 xícara de macarrão em formato de concha; Sal e pimenta a gosto; Folhas de manjericão e pesto vegano para decorar.",
+    "modo_preparo": "Em uma panela grande, aqueça o azeite e refogue a cebola e o alho até dourarem. Adicione a cenoura, o salsão e a abobrinha, cozinhando por alguns minutos até os legumes amolecerem. Acrescente o feijão-branco, os tomates pelados e o caldo de legumes e cozinhe em fervura por cerca de 15 minutos. Adicione o macarrão e cozinhe até ficar al dente (cerca de 10 minutos). Tempere com sal e pimenta e sirva decorado com manjericão e colheradas de pesto."
+  },
+  "150": {
+    "titulo": "Sopa de missô com tofu e cogumelos",
+    "ingredientes": "1 colher de sopa de óleo de gergelim; 1 cebola picada; 2 dentes de alho picados; 1 cenoura cortada em cubos; 1 xícara de cogumelos picados (shiitake ou shimeji); 1 colher de sopa de gengibre ralado; 1/4 xícara de molho de soja; 4 xícaras de água; 1/4 xícara de pasta de missô; 1 pacote de tofu firme cortado em cubos; Cebolinha picada.",
+    "modo_preparo": "Em uma panela, aqueça o óleo de gergelim e refogue a cebola e o alho até ficarem dourados. Adicione a cenoura, os cogumelos, o gengibre e o molho de soja. Refogue por cerca de 5 minutos. Acrescente a água e deixe ferver por 10 minutos. Em uma tigela, misture a pasta de missô com um pouco do caldo da sopa até dissolver completamente. Adicione essa mistura à panela e mexa bem. Por último, adicione o tofu e deixe cozinhar por mais 5 minutos. Finalize com cebolinha picada antes de servir."
+  },
+  "300": {
+    "titulo": "Bolo de Chocolate Sem Lactose",
+    "ingredientes": "2 xícaras de farinha de trigo; 1 xícara de açúcar; 1/2 xícara de cacau em pó; 1 xícara de água quente; 1/2 xícara de óleo; 1 colher de sopa de fermento",
+    "modo_preparo": "Misture os secos, adicione os líquidos, bata bem e asse por 40 min a 180C."
+  },
+  "301": {
+    "titulo": "Panqueca de Banana Sem Lactose",
+    "ingredientes": "2 bananas; 2 ovos; 1/2 xícara de aveia; 1 colher de chá de canela",
+    "modo_preparo": "Amasse as bananas, misture os ovos e aveia. Frite pequenas porções em frigideira untada."
+  },
+  "302": {
+    "titulo": "Estrogonofe de Frango com Leite de Coco",
+    "ingredientes": "500g de frango em cubos; 1 cebola picada; 2 dentes de alho; 200ml de leite de coco; 3 colheres de molho de tomate; sal e pimenta",
+    "modo_preparo": "Refogue o frango com alho e cebola. Adicione o molho de tomate e por fim o leite de coco."
+  },
+  "303": {
+    "titulo": "Torta Salgada de Liquidificador",
+    "ingredientes": "3 ovos; 1 xícara de óleo; 2 xícaras de água ou leite vegetal; 2 xícaras de farinha; 1 colher de fermento; recheio a gosto",
+    "modo_preparo": "Bata os líquidos, depois os secos. Coloque metade da massa na assadeira, o recheio, e o restante da massa. Asse a 180C."
+  },
+  "304": {
+    "titulo": "Brigadeiro Sem Lactose",
+    "ingredientes": "1 lata de leite condensado de soja ou aveia; 3 colheres de cacau em pó; 1 colher de óleo de coco",
+    "modo_preparo": "Misture tudo na panela em fogo baixo até desgrudar do fundo."
+  },
+  "305": {
+    "titulo": "Vitamina de Abacate",
+    "ingredientes": "1/2 abacate; 200ml de leite de amêndoas; 1 colher de mel",
+    "modo_preparo": "Bata tudo no liquidificador e sirva gelado."
+  },
+  "306": {
+    "titulo": "Pão de Queijo Fake (Sem Queijo/Lactose)",
+    "ingredientes": "2 xícaras de polvilho azedo; 1 xícara de purê de batata baroa; 1/3 xícara de óleo; sal a gosto",
+    "modo_preparo": "Misture tudo até formar uma massa homogênea. Faça bolinhas e asse até dourar."
+  },
+  "307": {
+    "titulo": "Biscoito de Coco",
+    "ingredientes": "1 xícara de coco ralado; 1 xícara de farinha de arroz; 1/2 xícara de açúcar demerara; 2 colheres de óleo de coco; 1 ovo",
+    "modo_preparo": "Misture bem, molde os biscoitos e asse a 180C por 15 minutos."
+  },
+  "308": {
+    "titulo": "Purê de Batata Sem Manteiga",
+    "ingredientes": "4 batatas médias; 1/2 xícara de leite de aveia; sal e noz-moscada",
+    "modo_preparo": "Cozinhe e amasse as batatas. Misture com o leite de aveia no fogo baixo até ficar cremoso."
+  },
+  "309": {
+    "titulo": "Molho Branco Sem Lactose",
+    "ingredientes": "2 colheres de azeite; 2 colheres de farinha de arroz; 500ml de leite de castanhas; sal e noz-moscada",
+    "modo_preparo": "Doure a farinha no azeite, adicione o leite de castanhas aos poucos mexendo sempre até engrossar."
+  },
+  "310": {
+    "titulo": "Sorvete de Manga e Banana",
+    "ingredientes": "2 mangas congeladas; 2 bananas congeladas",
+    "modo_preparo": "Bata as frutas congeladas no processador até obter textura de sorvete."
+  },
+  "311": {
+    "titulo": "Macarrão ao Molho Pesto Vegano/Sem Lactose",
+    "ingredientes": "500g de macarrão; 2 xícaras de manjericão; 1/2 xícara de azeite; 1/3 xícara de nozes; 1 dente de alho; sal",
+    "modo_preparo": "Bata o manjericão, azeite, nozes e alho. Misture ao macarrão cozido."
+  },
+  "312": {
+    "titulo": "Pizza com Massa de Couve-flor",
+    "ingredientes": "1 couve-flor processada; 1 ovo; sal e orégano; molho de tomate",
+    "modo_preparo": "Misture a couve-flor, ovo e temperos. Espalhe em forma de pizza, asse, coloque cobertura sem lactose e asse mais um pouco."
+  },
+  "313": {
+    "titulo": "Mousse de Chocolate Sem Lactose",
+    "ingredientes": "2 abacates maduros; 1/2 xícara de cacau em pó; 1/2 xícara de mel ou melado",
+    "modo_preparo": "Bata tudo no processador e leve à geladeira."
+  },
+  "314": {
+    "titulo": "Cookies com Gotas de Chocolate (Chocolate Sem Leite)",
+    "ingredientes": "1 e 1/2 xícara de farinha de aveia; 1/2 xícara de açúcar mascavo; 1 ovo; 1/4 xícara de óleo de coco; gotas de chocolate sem leite",
+    "modo_preparo": "Misture ingredientes e asse por 12 minutos a 180C."
+  },
+  "315": {
+    "titulo": "Pudim Sem Lactose",
+    "ingredientes": "1 lata de leite condensado de aveia; mesma medida de leite vegetal; 3 ovos",
+    "modo_preparo": "Bata no liquidificador, coloque em forma caramelizada e asse em banho-maria."
+  },
+  "316": {
+    "titulo": "Bolo de Cenoura Sem Lactose",
+    "ingredientes": "3 cenouras; 1/2 xícara de óleo; 3 ovos; 2 xícaras de farinha; 1 e 1/2 xícara de açúcar; fermento",
+    "modo_preparo": "Bata cenoura, óleo e ovos. Misture aos secos. Asse a 180C por 40 min."
+  },
+  "317": {
+    "titulo": "Creme de Milho Sem Leite",
+    "ingredientes": "1 lata de milho; 1 xícara de leite de arroz; 1 colher de amido de milho; meia cebola",
+    "modo_preparo": "Bata o milho com leite de arroz. Refogue a cebola, adicione a mistura e mexa até engrossar."
+  },
+  "318": {
+    "titulo": "Quiche de Alho Poró",
+    "ingredientes": "Massa: farinha e azeite; Recheio: creme de tofu, alho poró refogado, sal",
+    "modo_preparo": "Asse a massa previamente. Adicione o recheio e asse até firmar."
+  },
+  "319": {
+    "titulo": "Risoto de Cogumelos",
+    "ingredientes": "2 xícaras de arroz arbóreo; 200g de cogumelos; caldo de legumes; 1/2 taça de vinho branco",
+    "modo_preparo": "Refogue cogumelos. Adicione arroz, vinho, e vá colocando caldo até cozinhar. Finalize com azeite em vez de manteiga."
+  },
+  "320": {
+    "titulo": "Moqueca de Peixe e Camarão",
+    "ingredientes": "500g de peixe; 300g de camarão; pimentões; cebola; tomate; 200ml de leite de coco; azeite de dendê",
+    "modo_preparo": "Cozinhe em camadas na panela de barro, adicione o leite de coco e dendê. Ferva por 15 min."
+  },
+  "321": {
+    "titulo": "Hambúrguer de Lentilha",
+    "ingredientes": "1 xícara de lentilha cozida; 1/2 cebola; alho; farinha de aveia para dar ponto",
+    "modo_preparo": "Amasse a lentilha, tempere, misture a farinha, molde os hambúrgueres e grelhe."
+  },
+  "322": {
+    "titulo": "Sopa de Abóbora com Gengibre",
+    "ingredientes": "1/2 abóbora cabotiá cozida; 1 pedaço de gengibre; água ou caldo de legumes",
+    "modo_preparo": "Bata a abóbora com gengibre e caldo. Aqueça e tempere."
+  },
+  "323": {
+    "titulo": "Pão Doce de Batata Doce",
+    "ingredientes": "2 xícaras de batata doce cozida e amassada; farinha de trigo ou aveia; fermento biológico",
+    "modo_preparo": "Sove a massa, deixe crescer e asse."
+  },
+  "324": {
+    "titulo": "Iogurte de Coco Caseiro",
+    "ingredientes": "Polpa de 2 cocos verdes; suco de 1 limão; probióticos (opcional)",
+    "modo_preparo": "Bata a polpa de coco com limão e água de coco até virar creme."
+  },
+  "325": {
+    "titulo": "Pão de Alho Sem Manteiga",
+    "ingredientes": "Pães franceses; azeite; alho triturado; maionese sem leite",
+    "modo_preparo": "Faça a pasta, recheie os pães e leve à churrasqueira ou forno."
+  },
+  "326": {
+    "titulo": "Lasanha de Berinjela",
+    "ingredientes": "Berinjelas fatiadas; carne moída; molho de tomate; queijo vegano (opcional)",
+    "modo_preparo": "Monte as camadas intercalando berinjela e molho com carne. Asse por 30 min."
+  },
+  "327": {
+    "titulo": "Maionese de Abacate",
+    "ingredientes": "1 abacate; suco de 1 limão; 1 dente de alho; sal; fio de azeite",
+    "modo_preparo": "Bata tudo no liquidificador até emulsificar."
+  },
+  "328": {
+    "titulo": "Doce de Leite Vegano/Sem Lactose",
+    "ingredientes": "1 litro de leite de amêndoas; 1 xícara de açúcar demerara",
+    "modo_preparo": "Ferva em fogo bem baixo mexendo sempre até reduzir e caramelizar."
+  },
+  "329": {
+    "titulo": "Farofa de Banana da Terra",
+    "ingredientes": "2 bananas da terra picadas; 1 xícara de farinha de mandioca; cebola; azeite",
+    "modo_preparo": "Doure a cebola no azeite, adicione a banana e depois a farinha."
   }
 }
