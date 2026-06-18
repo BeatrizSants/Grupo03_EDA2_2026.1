@@ -1,8 +1,8 @@
 import os
-from graphs.graph import BipartiteGraph
-from graphs.search import BFSSearcher
-from nlp.similarity import SimilarityGraph
-from utils.max_heap import MaxHeap
+from src.graphs.graph import BipartiteGraph
+from src.graphs.search import BFSSearcher
+from src.nlp.similarity import SimilarityGraph
+from src.utils.max_heap import MaxHeap
 
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 USER_PATH = os.path.join(BASE_DIR, "data", "user.json")
