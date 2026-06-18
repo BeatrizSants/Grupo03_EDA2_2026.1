@@ -1,9 +1,254 @@
 {
   "1": {
     "nome": "user01",
-    "descrição": "x",
+    "descricao": "x",
     "interacoes": {
       "101": 1
+    }
+  },
+  "200": {
+    "nome": "Ana Silva",
+    "descricao": "Diagnosticada com doença celíaca há 2 anos, reaprendendo a cozinhar sem contaminação cruzada.",
+    "interacoes": {
+      "214": { "peso_interacao": 3 },
+      "234": { "peso_interacao": 1 },
+      "227": { "peso_interacao": 1 },
+      "419": { "peso_interacao": 3 },
+      "201": { "peso_interacao": 1 }
+    }
+  },
+  "201": {
+    "nome": "Bruno Costa",
+    "descricao": "Diagnosticado com doença celíaca. Amante de panificação caseira adaptada.",
+    "interacoes": {
+      "204": { "peso_interacao": 1 },
+      "222": { "peso_interacao": 5 },
+      "121": { "peso_interacao": 1 },
+      "209": { "peso_interacao": 5 }
+    }
+  },
+  "202": {
+    "nome": "Carlos Oliveira",
+    "descricao": "Estudante que mora sozinho e precisa de receitas rápidas sem glúten que caibam no orçamento.",
+    "interacoes": {
+      "218": { "peso_interacao": 3 },
+      "328": { "peso_interacao": 5 },
+      "205": { "peso_interacao": 3 }
+    }
+  },
+  "203": {
+    "nome": "Daniela Souza",
+    "descricao": "Mãe de uma criança celíaca, focada em lanches escolares e bolos sem glúten e saborosos.",
+    "interacoes": {
+      "213": { "peso_interacao": 5 },
+      "215": { "peso_interacao": 5 },
+      "219": { "peso_interacao": 5 }
+    }
+  },
+  "204": {
+    "nome": "Eduardo Lima",
+    "descricao": "Intolerante ao glúten severa. Busco receitas práticas de pães e massas para o dia a dia.",
+    "interacoes": {
+      "231": { "peso_interacao": 1 },
+      "105": { "peso_interacao": 1 },
+      "203": { "peso_interacao": 1 }
+    }
+  },
+  "205": {
+    "nome": "Fernanda Ribeiro",
+    "descricao": "Mãe de uma criança celíaca, focada em lanches escolares e bolos sem glúten e saborosos.",
+    "interacoes": {
+      "230": { "peso_interacao": 5 },
+      "229": { "peso_interacao": 3 },
+      "223": { "peso_interacao": 1 }
+    }
+  },
+  "206": {
+    "nome": "Gabriel Carvalho",
+    "descricao": "Intolerante ao glúten que ama a culinária italiana e busca substitutos perfeitos para massas.",
+    "interacoes": {
+      "214": { "peso_interacao": 5 },
+      "203": { "peso_interacao": 3 },
+      "227": { "peso_interacao": 3 },
+      "511": { "peso_interacao": 3 }
+    }
+  },
+  "207": {
+    "nome": "Helena Martins",
+    "descricao": "Diagnosticada com doença celíaca há 2 anos, reaprendendo a cozinhar sem contaminação cruzada.",
+    "interacoes": {
+      "215": { "peso_interacao": 5 },
+      "228": { "peso_interacao": 3 },
+      "233": { "peso_interacao": 5 },
+      "208": { "peso_interacao": 1 },
+      "417": { "peso_interacao": 5 }
+    }
+  },
+  "208": {
+    "nome": "Igor Rodrigues",
+    "descricao": "Celíaco ativo, praticante de musculação, sempre adaptando carboidratos saudáveis na dieta.",
+    "interacoes": {
+      "226": { "peso_interacao": 3 },
+      "230": { "peso_interacao": 1 },
+      "202": { "peso_interacao": 3 },
+      "217": { "peso_interacao": 3 },
+      "224": { "peso_interacao": 5 }
+    }
+  },
+  "209": {
+    "nome": "Julia Alves",
+    "descricao": "Sensibilidade ao glúten não-celíaca, prioriza receitas limpas e sem trigo.",
+    "interacoes": {
+      "231": { "peso_interacao": 3 },
+      "230": { "peso_interacao": 1 },
+      "206": { "peso_interacao": 5 },
+      "203": { "peso_interacao": 1 }
+    }
+  },
+  "210": {
+    "nome": "Lucas Ferreira",
+    "descricao": "Mãe de uma criança celíaca, focada em lanches escolares e bolos sem glúten e saborosos.",
+    "interacoes": {
+      "204": { "peso_interacao": 5 },
+      "234": { "peso_interacao": 5 },
+      "221": { "peso_interacao": 3 },
+      "416": { "peso_interacao": 3 }
+    }
+  },
+  "211": {
+    "nome": "Mariana Gomes",
+    "descricao": "Intolerante ao glúten que ama a culinária italiana e busca substitutos perfeitos para massas.",
+    "interacoes": {
+      "217": { "peso_interacao": 5 },
+      "204": { "peso_interacao": 1 },
+      "216": { "peso_interacao": 1 },
+      "305": { "peso_interacao": 3 }
+    }
+  },
+  "212": {
+    "nome": "Neto Pereira",
+    "descricao": "Sensibilidade ao glúten não-celíaca, prioriza receitas limpas e sem trigo.",
+    "interacoes": {
+      "218": { "peso_interacao": 5 },
+      "225": { "peso_interacao": 5 },
+      "204": { "peso_interacao": 5 }
+    }
+  },
+  "213": {
+    "nome": "Olivia Almeida",
+    "descricao": "Mãe de uma criança celíaca, focada em lanches escolares e bolos sem glúten e saborosos.",
+    "interacoes": {
+      "212": { "peso_interacao": 1 },
+      "231": { "peso_interacao": 1 },
+      "215": { "peso_interacao": 1 },
+      "228": { "peso_interacao": 3 }
+    }
+  },
+  "214": {
+    "nome": "Pedro Santos",
+    "descricao": "Sensibilidade ao glúten não-celíaca, prioriza receitas limpas e sem trigo.",
+    "interacoes": {
+      "218": { "peso_interacao": 3 },
+      "211": { "peso_interacao": 3 },
+      "215": { "peso_interacao": 3 },
+      "209": { "peso_interacao": 1 }
+    }
+  },
+  "215": {
+    "nome": "Raquel Barbosa",
+    "descricao": "Diagnosticada com doença celíaca há 2 anos, reaprendendo a cozinhar sem contaminação cruzada.",
+    "interacoes": {
+      "231": { "peso_interacao": 5 },
+      "206": { "peso_interacao": 5 },
+      "233": { "peso_interacao": 1 }
+    }
+  },
+  "216": {
+    "nome": "Samuel Castro",
+    "descricao": "Celíaco focado em uma alimentação natural, baseada em tubérculos, grãos naturalmente sem glúten.",
+    "interacoes": {
+      "212": { "peso_interacao": 5 },
+      "512": { "peso_interacao": 1 },
+      "230": { "peso_interacao": 3 },
+      "214": { "peso_interacao": 5 }
+    }
+  },
+  "217": {
+    "nome": "Tatiana Costa",
+    "descricao": "Descobriu a sensibilidade ao glúten recentemente e está mudando os hábitos de toda a família.",
+    "interacoes": {
+      "213": { "peso_interacao": 3 },
+      "206": { "peso_interacao": 5 },
+      "212": { "peso_interacao": 3 }
+    }
+  },
+  "218": {
+    "nome": "Vitor Melo",
+    "descricao": "Intolerante ao glúten severa. Busco receitas práticas de pães e massas para o dia a dia.",
+    "interacoes": {
+      "214": { "peso_interacao": 5 },
+      "227": { "peso_interacao": 3 },
+      "232": { "peso_interacao": 1 },
+      "102": { "peso_interacao": 3 }
+    }
+  },
+  "219": {
+    "nome": "Yasmin Rocha",
+    "descricao": "Celíaco ativo, praticante de musculação, sempre adaptando carboidratos saudáveis na dieta.",
+    "interacoes": {
+      "215": { "peso_interacao": 1 },
+      "209": { "peso_interacao": 5 },
+      "230": { "peso_interacao": 5 }
+    }
+  },
+  "220": {
+    "nome": "Amanda Teixeira",
+    "descricao": "Diagnosticado com doença celíaca. Amante de panificação caseira adaptada.",
+    "interacoes": {
+      "222": { "peso_interacao": 5 },
+      "230": { "peso_interacao": 5 },
+      "214": { "peso_interacao": 1 },
+      "129": { "peso_interacao": 3 }
+    }
+  },
+  "221": {
+    "nome": "Diego Cardoso",
+    "descricao": "Intolerante ao glúten severa. Busco receitas práticas de pães e massas para o dia a dia.",
+    "interacoes": {
+      "226": { "peso_interacao": 5 },
+      "224": { "peso_interacao": 3 },
+      "231": { "peso_interacao": 5 },
+      "215": { "peso_interacao": 5 },
+      "325": { "peso_interacao": 3 }
+    }
+  },
+  "222": {
+    "nome": "Larissa Freitas",
+    "descricao": "Intolerante ao glúten que ama a culinária italiana e busca substitutos perfeitos para massas.",
+    "interacoes": {
+      "200": { "peso_interacao": 3 },
+      "218": { "peso_interacao": 1 },
+      "233": { "peso_interacao": 5 },
+      "229": { "peso_interacao": 5 }
+    }
+  },
+  "223": {
+    "nome": "Murilo Vieira",
+    "descricao": "Celíaco ativo, praticante de musculação, sempre adaptando carboidratos saudáveis na dieta.",
+    "interacoes": {
+      "219": { "peso_interacao": 3 },
+      "206": { "peso_interacao": 5 },
+      "221": { "peso_interacao": 3 }
+    }
+  },
+  "224": {
+    "nome": "Camila Rocha",
+    "descricao": "Estudante que mora sozinho e precisa de receitas rápidas sem glúten que caibam no orçamento.",
+    "interacoes": {
+      "223": { "peso_interacao": 1 },
+      "200": { "peso_interacao": 3 },
+      "214": { "peso_interacao": 5 },
+      "122": { "peso_interacao": 5 }
     }
   }
 }
