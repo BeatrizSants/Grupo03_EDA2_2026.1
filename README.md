@@ -23,6 +23,9 @@ Este projeto foi desenvolvido como requisito prático para a disciplina de **Est
 │   ├── graph.py
 │   └── search.py
 │
+├── 📂 utils/            # Estrutura de Dados Auxiliar
+│   └── max_heap.py
+│
 ├── 📂 service/          # Camada de Negócio / Motor de Recomendação
 │   └── recommender.py
 │
@@ -32,7 +35,7 @@ Este projeto foi desenvolvido como requisito prático para a disciplina de **Est
 ### Funcionamento dos Grafos e Algoritmos:
 1. **Grafo Bipartido (Usuário-Receita):** Conecta `Vértices(Usuário)` a `Vértices(Receita)`. As arestas possuem pesos baseados no tipo de interação.
 2. **Projeção / Grafo de Similaridade:** O módulo de PLN analisa as descrições de restrições e conecta usuários similares.
-3. **Recomendação com BFS (Busca em Largura):** A partir de um usuário alvo, o algoritmo explora a vizinhança no grafo para encontrar usuários com restrições idênticas e, em seguida, utiliza uma fila para rastrear e ordenar as receitas mais próximas e de maior peso consumidas por esse grupo.
+3. **Recomendação com BFS (Busca em Largura):** A partir de um usuário alvo, o algoritmo explora a vizinhança no grafo para encontrar usuários com restrições idênticas e, em seguida, utiliza uma fila comum para o rastreamento e uma **Fila de Prioridade (Heap de Máximo)** para ordenar e extrair as receitas mais próximas e de maior peso consumidas por esse grupo.
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python 3.10+
