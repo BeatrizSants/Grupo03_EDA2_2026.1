@@ -26,3 +26,21 @@ class SimilarityGraph:
 
         descricao = user_data.get("descricao", "")
         self.users_spacy[temp_id] = self.pln(descricao.lower()) 
+
+       
+    def find_similar_users(self, target_id, top_n=3):
+
+        target_spacy = self.users_spacy[target_id]
+        similarities = []
+
+        for u_id, description in self.users_spacy.items():
+            if u_id != target_id:
+                if description.vector_norm and target_spacy.vector_norm:
+                    score = target_spacy.similarity(description)
+                else:
+                    score = 0.0
+                
+                similarities.append((u_id, score))
+        
+        similarities.sort(key=lambda x: x[1], reverse=True)
+        return similarities[:top_n]
