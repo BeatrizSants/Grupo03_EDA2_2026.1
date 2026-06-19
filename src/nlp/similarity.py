@@ -33,7 +33,7 @@ class SimilarityGraph:
         target_spacy = self.__users_spacy[target_id]
         similarities = []
 
-        for u_id, description in self.users_spacy.items():
+        for u_id, description in self.__users_spacy.items():
             if u_id != target_id:
                 if description.vector_norm and target_spacy.vector_norm:
                     score = target_spacy.similarity(description)
