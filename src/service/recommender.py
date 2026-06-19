@@ -10,55 +10,50 @@ RECEITAS_PATH = os.path.join(BASE_DIR, "data", "receitas.json")
 
 def recommend(user_name, user_description, top_n=5):
 
+
     graph = BipartiteGraph()
     graph.load_from_json(USER_PATH, RECEITAS_PATH)
 
-    similarity_graph = SimilarityGraph()
-    similarity_graph.load_users(USER_PATH)
-
-    temp_id = "U_TEMP"
-
-    similarity_graph.add_temp_user(temp_id, {"nome": user_name, "descricao": user_description})
-    similar_users = similarity_graph.find_similar_users(temp_id, top_n=3)
-
-    bfs = BFSSearcher(graph)
-
     global_heap = MaxHeap()
     
-    recipe_scores = {}
+    if not user_description:
+        for recipe_id, recipe_data in graph.recipes.items():
+            pesos_interacoes = graph.adj.get(recipe_id, {}).values()
 
-    for user_id, similarity_score in similar_users:
+            score_global = sum(pesos_interacoes)
 
-        user_number = user_id.replace("U_", "")
+            global_heap.push(score_global, recipe_id, recipe_data)
 
-        recommendations = bfs.recommend_for_user(
-            user_number,
-            top_n
-        )
+    else:
+        similarity_graph = SimilarityGraph()
+        similarity_graph.load_users(USER_PATH)
 
-        for score, recipe_id, recipe_data in recommendations:
+        temp_id = "U_TEMP"
+        similarity_graph.add_temp_user(temp_id, {"nome": user_name, "descricao": user_description})
+        
+        similar_users = similarity_graph.find_similar_users(temp_id, top_n=3)
 
-            weighted_score = score * similarity_score
+        bfs = BFSSearcher(graph)
+        recipe_scores = {}
 
-            if recipe_id not in recipe_scores:
-                recipe_scores[recipe_id] = {
-                    "score": 0,
-                    "data": recipe_data
-                }
+        for user_id, similarity_score in similar_users:
+            user_number = user_id.replace("U_", "")
+            recommendations = bfs.recommend_for_user(user_number, top_n)
 
-            recipe_scores[recipe_id]["score"] += weighted_score
+            for score, recipe_id, recipe_data in recommendations:
+                weighted_score = score * similarity_score
+                
+                if recipe_id not in recipe_scores:
+                    recipe_scores[recipe_id] = {"score": 0, "data": recipe_data}
+                
+                recipe_scores[recipe_id]["score"] += weighted_score
 
-    for recipe_id, info in recipe_scores.items():
+        for recipe_id, info in recipe_scores.items():
+            global_heap.push(info["score"], recipe_id, info["data"])
 
-        global_heap.push(
-            info["score"],
-            recipe_id,
-            info["data"]
-        )
     final_recipes = []
 
     while len(final_recipes) < top_n:
-
         item = global_heap.pop()
 
         if item is None:
@@ -74,4 +69,3 @@ def recommend(user_name, user_description, top_n=5):
         })
 
     return final_recipes
-    
