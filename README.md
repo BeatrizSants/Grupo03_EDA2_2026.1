@@ -11,25 +11,30 @@ Este projeto foi desenvolvido como requisito prático para a disciplina de **Est
 **Padrão:** Arquitetura em Camadas
 ### Estrutura de Diretórios
 ```text
-📂 src/
-├── 📂 data/             # Camada de Persistência
-│   ├── user.json
-│   └── receita.json
+📂 Grupo03_EDA2_2026.1/
+├── main.py                  # Ponto de entrada do sistema (terminal)
+├── requirements.txt
 │
-├── 📂 nlp/              # Processamento de Linguagem Natural
-│   └── similarity.py
-│
-├── 📂 graphs/           # Estrutura de Dados e Algoritmos
-│   ├── graph.py
-│   └── search.py
-│
-├── 📂 utils/            # Estrutura de Dados Auxiliar
-│   └── max_heap.py
-│
-├── 📂 service/          # Camada de Negócio / Motor de Recomendação
-│   └── recommender.py
-│
-└── main.py
+└── 📂 src/
+    ├── 📂 data/             # Camada de Persistência
+    │   ├── user.json
+    │   └── receitas.json
+    │
+    ├── 📂 nlp/              # Processamento de Linguagem Natural
+    │   └── similarity.py
+    │
+    ├── 📂 graphs/           # Estrutura de Dados e Algoritmos
+    │   ├── graph.py
+    │   └── search.py
+    │
+    ├── 📂 utils/            # Estrutura de Dados Auxiliar
+    │   └── max_heap.py
+    │
+    ├── 📂 service/          # Camada de Negócio / Motor de Recomendação
+    │   └── recommender.py
+    │
+    └── 📂 tests/            # Scripts de validação dos dados
+        └── saida.py
 ```
 
 ### Funcionamento dos Grafos e Algoritmos:
@@ -37,10 +42,101 @@ Este projeto foi desenvolvido como requisito prático para a disciplina de **Est
 2. **Projeção / Grafo de Similaridade:** O módulo de PLN analisa as descrições de restrições e conecta usuários similares.
 3. **Recomendação com BFS (Busca em Largura):** A partir de um usuário alvo, o algoritmo explora a vizinhança no grafo para encontrar usuários com restrições idênticas e, em seguida, utiliza uma fila comum para o rastreamento e uma **Fila de Prioridade (Heap de Máximo)** para ordenar e extrair as receitas mais próximas e de maior peso consumidas por esse grupo.
 
+## 🗄️ Modelagem dos Dados
+
+### Usuários (`src/data/user.json`)
+Cada usuário possui um ID numérico único e os campos abaixo. O campo `interacoes` mapeia os IDs das receitas com que ele interagiu e o respectivo peso dessa interação:
+
+```json
+"1": {
+  "nome": "Ana Clara",
+  "descricao": "Vegetariana há 2 anos, gosta de receitas saudáveis...",
+  "interacoes": {
+    "103": { "peso_interacao": 5 },
+    "120": { "peso_interacao": 3 }
+  }
+}
+```
+
+**Escala de pesos de interação:**
+| Peso | Significado |
+|------|-------------|
+| `1`  | Visualizou / Abriu a receita |
+| `3`  | Curtiu / Salvou a receita |
+| `5`  | Testou e avaliou positivamente |
+
+### Receitas (`src/data/receitas.json`)
+Cada receita possui um ID numérico único e os campos abaixo. Os IDs são organizados em faixas por restrição alimentar:
+
+```json
+"103": {
+  "titulo": "Patê vegano: homus",
+  "ingredientes": "2 xícaras de grão-de-bico cozido; ...",
+  "modo_preparo": "Bata todos os ingredientes no liquidificador..."
+}
+```
+
+**Faixas de IDs por restrição alimentar:**
+| Faixa de IDs | Restrição |
+|---|---|
+| `101 – 150` | Vegano / Vegetariano |
+| `200 – 234` | Sem Glúten |
+| `300 – 329` | Sem Lactose |
+| `400 – 449` | Alergia a Ovo |
+| `500 – 539` | Alergia a Frutos do Mar |
+
+## 🚀 Como Usar o Sistema
+
+### 1. Pré-requisitos
+* Python 3.10 ou superior
+
+### 2. Instalar dependências
+Na raiz do projeto, execute:
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Executar o sistema
+```bash
+python main.py
+```
+
+### 4. Exemplo de uso no terminal
+```
+==================================================
+ Sistema de Recomendação de Receitas
+==================================================
+
+=== Usuário ===
+Nome: João Silva
+Descrição das restrições alimentares: Sou intolerante a lactose e prefiro pratos doces
+
+Pressione Enter para gerar recomendações...
+
+=== Top 5 Recomendações ===
+
+ID: 321
+Título: Molho Branco Sem Lactose
+
+Ingredientes:
+- 2 colheres de azeite
+- 2 colheres de farinha de arroz
+- 500ml de leite de castanhas
+- sal e noz-moscada
+
+Modo de preparo:
+Doure a farinha no azeite, adicione o leite de castanhas aos poucos mexendo sempre até engrossar.
+
+--------------------------------------------------
+...
+```
+
+> **Nota:** Se a descrição for deixada em branco, o sistema sugere automaticamente as receitas com maior engajamento geral da comunidade.
+
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python 3.10+
 * **Banco de Dados:** Arquivos estruturados em formato `JSON`
-* **Biblioteca de PLN:** `Spacy`
+* **Biblioteca de PLN:** `spaCy` com modelo `pt_core_news_md`
 
 ## 👥 Equipe
 <table align="center">
