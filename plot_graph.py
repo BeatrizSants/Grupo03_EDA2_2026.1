@@ -2,6 +2,7 @@ import json
 import os
 import networkx as nx
 import matplotlib.pyplot as plt
+import matplotlib.lines as mlines
 
 def plot_bipartite_graph():
     # Caminhos dos arquivos JSON oficiais do grupo
@@ -19,95 +20,97 @@ def plot_bipartite_graph():
     with open(receita_path, "r", encoding="utf-8") as f:
         receitas_data = json.load(f)
     
-    # Seleciona uma amostra de 5 usuários para que os números dos pesos fiquem legíveis
+    # Seleciona a amostra de 5 usuários
     usuarios_amostra = list(users_data.keys())[:5]
     
     for u_id in usuarios_amostra:
         u_node = f"U_{u_id}"
-        # Guarda o nome do usuário como label
-        G.add_node(u_node, bipartite=0, label=users_data[u_id]["nome"].split()[0])
+        # Salva o ID curto (ex: 1) e o nome do usuário
+        G.add_node(u_node, bipartite=0, id_curto=u_id, label=users_data[u_id]["nome"].split()[0])
         
         interacoes = users_data[u_id].get("interacoes", {})
         for r_id, info in interacoes.items():
             r_node = f"R_{r_id}"
             
             if r_id in receitas_data:
-                # Guarda o título simplificado da receita como label
                 nome_receita = receitas_data[r_id].get("titulo") or receitas_data[r_id].get("nome") or f"Rec {r_id}"
-                G.add_node(r_node, bipartite=1, label=nome_receita[:12] + "...")
+                # Salva o ID curto da receita (ex: 14) e o título completo
+                G.add_node(r_node, bipartite=1, id_curto=r_id, label=nome_receita)
                 
-                # Obtém o peso numérico da interação
                 peso = info.get("peso_interacao", 1)
                 G.add_edge(u_node, r_node, weight=peso)
 
-    # 3. Organiza o Layout Bipartido (Duas Colunas)
+   # 3. Organiza o Layout Bipartido (Duas Colunas)
     top_nodes = [n for n, d in G.nodes(data=True) if d.get('bipartite') == 0]
-    pos = nx.bipartite_layout(G, top_nodes)
+    pos_original = nx.bipartite_layout(G, top_nodes)
     
-    # Mapeia as espessuras com base nos pesos
+    # AJUSTE CUSTOMIZADO DE DISTÂNCIA (Estilo o layout do Brunno)
+    pos = {}
+    for node, (x, y) in pos_original.items():
+        if node in top_nodes:
+            # Coluna dos Usuários: 
+            # Empurramos o x um pouco para a direita (aproximando das receitas)
+            # E multiplicamos o y por 0.6 para espremer verticalmente e deixá-los mais próximos
+            pos[node] = (-0.6, y * 0.6)
+        else:
+            # Coluna das Receitas:
+            # Empurramos o x um pouco para a esquerda (aproximando dos usuários)
+            # O y das receitas deixamos normal (1.0) para que elas continuem bem distribuídas na vertical
+            pos[node] = (0.3, y * 1.0)
+            
+    # Mapeamento de cores das arestas
+    cor_por_peso = {1: "#2b5c8f", 3: "#32cd32", 5: "#ffa114"}
     edges = G.edges(data=True)
-    widths = [edge[2]['weight'] * 1.0 for edge in edges]
+    edge_colors = [cor_por_peso.get(edge[2]['weight'], "gray") for edge in edges]
     
-    # Cria os dicionários de labels para os nós e para os pesos das arestas
-    node_labels = nx.get_node_attributes(G, 'label')
-    edge_labels = nx.get_edge_attributes(G, 'weight')
-
-    # 4. Configura a Janela Gráfica (OPÇÃO 1: AMOSTRA CONTROLADA COM PESOS)
-    plt.figure(figsize=(12, 8))
-    plt.title("Amostra do Grafo Bipartido com Pesos Numéricos das Arestas", fontsize=14, fontweight='bold')
+    # 4. Configura a Janela Gráfica
+    plt.figure(figsize=(14, 8))
+    plt.title("Amostra do Grafo Bipartido com Pesos das Arestas e IDs dos Vértices", fontsize=16, fontweight='bold', pad=20)
     
-    # Desenha os nós dos Usuários (Azul)
-    nx.draw_networkx_nodes(G, pos, nodelist=top_nodes, node_color="skyblue", node_size=700, edgecolors="black")
+    # Desenha os nós dos Usuários
+    nx.draw_networkx_nodes(G, pos, nodelist=top_nodes, node_color="orchid", node_size=900, edgecolors="gray", linewidths=1.5)
     
-    # Desenha os nós das Receitas (Laranja)
+    # Desenha os nós das Receitas
     bottom_nodes = [n for n in G.nodes() if n not in top_nodes]
-    nx.draw_networkx_nodes(G, pos, nodelist=bottom_nodes, node_color="orange", node_size=600, edgecolors="black")
+    nx.draw_networkx_nodes(G, pos, nodelist=bottom_nodes, node_color="gold", node_size=700, edgecolors="gray", linewidths=1.5)
     
-    # Desenha as linhas com espessura proporcional ao peso
-    nx.draw_networkx_edges(G, pos, alpha=0.5, edge_color="gray", width=widths)
+    # Desenha as linhas coloridas
+    nx.draw_networkx_edges(G, pos, alpha=0.9, edge_color=edge_colors, width=2.0)
     
-    # Desenha os nomes nos nós
-    nx.draw_networkx_labels(G, pos, labels=node_labels, font_size=9, font_weight="bold")
+    # --- MÁGICA DOS IDS DENTRO DOS VÉRTICES ---
+    # Pega o ID curto de cada nó e desenha exatamente no centro (pos) da bolinha
+    labels_internos = nx.get_node_attributes(G, 'id_curto')
+    nx.draw_networkx_labels(G, pos, labels=labels_internos, font_size=9, font_weight="bold", font_color="black")
     
-    # Desenha os números dos pesos nas linhas
-    nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels, font_size=9, font_color="darkred", font_weight="bold")
+    # --- AJUSTE DOS NOMES DO LADO FORA ---
+    # Duplica as posições para empurrar o texto descritivo para as laterais externas
+    pos_labels_externos = {}
+    for node, (x, y) in pos.items():
+        if node in top_nodes:
+            pos_labels_externos[node] = (x - 0.04, y) # Afasta o nome para a esquerda
+        else:
+            pos_labels_externos[node] = (x + 0.03, y) # Afasta o título para a direita
+            
+    labels_usuarios = {n: G.nodes[n]['label'] for n in top_nodes}
+    labels_receitas = {n: G.nodes[n]['label'] for n in bottom_nodes}
+    
+    # Desenha os nomes por fora das bolinhas
+    nx.draw_networkx_labels(G, pos_labels_externos, labels=labels_usuarios, font_size=10, font_weight="bold", horizontalalignment='right')
+    nx.draw_networkx_labels(G, pos_labels_externos, labels=labels_receitas, font_size=9, font_weight="bold", horizontalalignment='left')
+    
+    # 5. Legenda inferior
+    legenda_peso1 = mlines.Line2D([], [], color='#2b5c8f', marker='s', linestyle='', markersize=10, label='Peso 1 — Visualizou')
+    legenda_peso3 = mlines.Line2D([], [], color='#32cd32', marker='s', linestyle='', markersize=10, label='Peso 3 — Curtiu/Salvou')
+    legenda_peso5 = mlines.Line2D([], [], color="#ffa114", marker='s', linestyle='', markersize=10, label='Peso 5 — Avaliou positivamente')
+    
+    plt.legend(handles=[legenda_peso1, legenda_peso3, legenda_peso5], loc='lower center', bbox_to_anchor=(0.5, -0.05), ncol=3, frameon=True, fontsize=10)
+    
+    plt.xlim(-1.2, 1.5)
 
-    
-    # =========================================================================
-    # 🚨 GRAFO COMPLETO (100 usuários e 300+ receitas)
-    # Para testar, DESCOMENTE o bloco abaixo (remova as #) e COMENTE o bloco da Opção 1 acima (Linha 55 até 73).
-    # =========================================================================
-    """
-    # 1. Recarrega a base sem limites para o grafo completo
-    G_completo = nx.Graph()
-    for u_id, info_u in users_data.items():
-        u_node = f"U_{u_id}"
-        G_completo.add_node(u_node, bipartite=0)
-        for r_id, info_r in info_u.get("interacoes", {}).items():
-            if r_id in receitas_data:
-                r_node = f"R_{r_id}"
-                G_completo.add_node(r_node, bipartite=1)
-                G_completo.add_edge(u_node, r_node, weight=info_r.get("peso_interacao", 1))
-                
-    top_nodes_c = [n for n, d in G_completo.nodes(data=True) if d.get('bipartite') == 0]
-    pos_c = nx.bipartite_layout(G_completo, top_nodes_c)
-    widths_c = [edge[2]['weight'] * 0.3 for edge in G_completo.edges(data=True)]
-    
-    plt.figure(figsize=(16, 10))
-    plt.title("Grafo Bipartido COMPLETO (Base de Dados Total)\nEspessura representa o Peso da Interação", fontsize=14, fontweight='bold')
-    
-    nx.draw_networkx_nodes(G_completo, pos_c, nodelist=top_nodes_c, node_color="skyblue", node_size=60, alpha=0.7)
-    bottom_nodes_c = [n for n in G_completo.nodes() if n not in top_nodes_c]
-    nx.draw_networkx_nodes(G_completo, pos_c, nodelist=bottom_nodes_c, node_color="orange", node_size=50, alpha=0.7)
-    nx.draw_networkx_edges(G_completo, pos_c, alpha=0.2, edge_color="gray", width=widths_c)
-    # Omitimos os textos aqui para o gráfico não virar um borrão preto ilegível
-    
-    # =========================================================================
-    """
     plt.axis("off")
     plt.tight_layout()
     
-    print("A renderizar o gráfico do sistema... Aguarde a janela se abrir!")
+    print("Gerando o grafo com IDs internos... Verifique a janela gráfica!")
     plt.show()
 
 if __name__ == "__main__":
