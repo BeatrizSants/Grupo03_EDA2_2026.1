@@ -50,7 +50,7 @@ def plot_bipartite_graph():
     
     # Cria os dicionários de labels para os nós e para os pesos das arestas
     node_labels = nx.get_node_attributes(G, 'label')
-    edge_labels = nx.get_mapping_types = nx.get_edge_attributes(G, 'weight')
+    edge_labels = nx.get_edge_attributes(G, 'weight')
 
     # 4. Configura a Janela Gráfica (OPÇÃO 1: AMOSTRA CONTROLADA COM PESOS)
     plt.figure(figsize=(12, 8))
