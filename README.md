@@ -13,6 +13,7 @@ Este projeto foi desenvolvido como requisito prático para a disciplina de **Est
 ```text
 📂 Grupo03_EDA2_2026.1/
 ├── main.py                  # Ponto de entrada do sistema (terminal)
+├── plot_graph.py            # Visualização do grafo bipartido
 ├── requirements.txt
 │
 └── 📂 src/
@@ -106,8 +107,13 @@ python main.py
 ==================================================
  Sistema de Recomendação de Receitas
 ==================================================
+1. Buscar Recomendações Personalizadas
+2. Visualizar Grafo da Base de Dados
+3. Sair do Sistema
+==================================================
+Escolha uma opção (1-3): 1
 
-=== Usuário ===
+=== Novo Usuário ===
 Nome: João Silva
 Descrição das restrições alimentares: Sou intolerante a lactose e prefiro pratos doces
 
@@ -131,12 +137,13 @@ Doure a farinha no azeite, adicione o leite de castanhas aos poucos mexendo semp
 ...
 ```
 
-> **Nota:** Se a descrição for deixada em branco, o sistema sugere automaticamente as receitas com maior engajamento geral da comunidade.
+> **Nota:** Se a descrição for deixada em branco, o sistema sugere automaticamente as receitas com maior engajamento geral da comunidade. A opção **2** abre uma janela gráfica com o grafo bipartido visualizado.
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python 3.10+
 * **Banco de Dados:** Arquivos estruturados em formato `JSON`
 * **Biblioteca de PLN:** `spaCy` com modelo `pt_core_news_md`
+* **Visualização do Grafo:** `networkx` e `matplotlib` (exclusivamente para plotagem — a lógica de recomendação é implementação própria)
 
 ## 👥 Equipe
 <table align="center">

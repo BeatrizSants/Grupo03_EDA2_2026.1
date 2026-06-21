@@ -1,0 +1,34 @@
+🎯 Objetivo
+
+Este PR atualiza a documentação do projeto, corrige o arquivo de dependências e adiciona os arquivos de pacote Python ausentes, garantindo que qualquer pessoa consiga instalar e rodar o sistema sem erros.
+
+Principais alterações:
+- **README.md:**
+  - Estrutura de diretórios atualizada refletindo todos os arquivos adicionados após os últimos merges (main.py, plot_graph.py, src/service/, src/tests/).
+  - Nova seção "Como Usar o Sistema" com instruções de instalação e exemplo do menu interativo com as 3 opções disponíveis.
+  - Nova seção "Modelagem dos Dados" explicando o formato de user.json e receitas.json, a escala de pesos de interação e as faixas de IDs por restrição alimentar.
+
+- **requirements.txt:**
+  - Corrigido: o modelo de PLN listado era pt-core-news-sm (pequeno), mas o código em similarity.py carrega pt_core_news_md (médio). Ajustado para o modelo correto.
+  - Adicionadas as dependências `networkx` e `matplotlib`, necessárias para a visualização gráfica do grafo bipartido (plot_graph.py).
+
+- **Arquivos __init__.py (novos):**
+  - Adicionados arquivos vazios em src/graphs/, src/nlp/, src/service/ e src/utils/ para que o Python reconheça esses diretórios como pacotes (para ter compatibilidade em sistemas Linux/Mac).
+
+---
+
+📂 Arquivos Alterados/Criados
+
+- `README.md`
+- `requirements.txt`
+- `src/graphs/__init__.py` (novo)
+- `src/nlp/__init__.py` (novo)
+- `src/service/__init__.py` (novo)
+- `src/utils/__init__.py` (novo)
+- `plot_graph.py` (mencionado na árvore do README)
+
+---
+
+🔗 Relacionamento
+
+- Related to #15
