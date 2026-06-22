@@ -118,11 +118,11 @@
   },
   "13": {
     "nome": "Mariana Ribeiro",
-    "descricao": "Vegetariana que prioriza alimentos naturais e substituições saudáveis para refeições tradicionais.",
+    "descricao": "Vegetariana que prioriza doces e sobremesas veganas, adorando experimentar receitas com chocolate e frutas.",
     "interacoes": {
-      "141": { "peso_interacao": 5 },
-      "117": { "peso_interacao": 1 },
-      "134": { "peso_interacao": 3 }
+      "403": { "peso_interacao": 5 },
+      "404": { "peso_interacao": 3 },
+      "430": { "peso_interacao": 1 }
     }
   },
   "14": {
@@ -137,11 +137,11 @@
   },
   "15": {
     "nome": "Olivia Fernandes",
-    "descricao": "Vegetariana que prefere pratos leves, nutritivos e ricos em vegetais e grãos.",
+    "descricao": "Vegetariana apaixonada por confeitaria à base de plantas, focada em bolos e doces sem ovos e sem leite.",
     "interacoes": {
-      "147": { "peso_interacao": 5 },
-      "135": { "peso_interacao": 3 },
-      "117": { "peso_interacao": 1 }
+      "400": { "peso_interacao": 5 },
+      "406": { "peso_interacao": 3 },
+      "421": { "peso_interacao": 1 }
     }
   },
   "16": {
